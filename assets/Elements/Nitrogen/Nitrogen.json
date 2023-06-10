@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Nitrogen",
+    "video": "https://www.youtube.com/watch?v=H8XNdqA18-M&list=PL7A1F4CF36C085DE1&index=7",
+    "image": "Nitrogen/nitrogen.jpg",
+    "species": "OTHER NONMETALS",
+    "symbol": "N",
+    "latin_name": "Nitrogenium",
+    "english_name": "Nitrogen",
+    "year_discovered": "1772",
+    "discovered_by": "Daniel Rutherford",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 5
+        },
+        {
+            "M": 0
+        },
+        {
+            "N": 0
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 7,
+        },
+        {
+            "protons": 7,
+        },
+        {
+            "neutrons": 7
+        }
+    ],
+    "atomic_number": 7,
+    "atomic_weight": "14.0067 (g/mol)",
+    "density": "0.001251 (g/cm³)",
+    "melting_point": "-209.9 °C = -345.82 °F = 63.25 K",
+    "boiling_point": "-195.8 °C = -320.44 °F = 77.35 K",
+    "valence_electrons": "3",
+    "period": 2,
+    "group": "V A",
+    "block": "p-block",
+    "emission_spectrum": "Nitrogen/N.gif",
+    "phase": "Gas",
+    "phase_icon": "----",
+    "fusion_heat": "0.36 (kJ &middot K)",
+    "specific_heat": "1040 J/(kg &middot; K)",
+    "thermal_expansion": "---- &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "2.79 kJ &middot; mol",
+    "electron_configuration": "[He] 2s<sup>2</sup> 2p<sup>3</sup>",
+    "oxidation_state": "-3, -2, -1, +1, +2, +3, +4, +5",
+    "ion_charge": "N<sup>3-</sup>",
+    "ionization_potential": "14.48 eV",
+    "atomic_radius": "92 (pm)",
+    "covalent_radius": "75 (pm)",
+    "van_der_waals_radius": "155 (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.0000000012511",
+    "mass_susceptibility": "-0.00000001",
+    "molar_susceptibility": "-1.5 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "----",
+    "superconducting_point": "----",
+    "lattice_structure": "Nitrogen/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal",
+    "grid": "a=5.661 \u212B",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7727-37-9",
+    "CID_number": "CID947",
+    "RTEC_number": "RTECSQW9700000",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "17.3 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "333.6 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "0.02583 W/mK",
+    "electronegative": "Pauling Scale 3.04",
+    "electron_affinity": "7 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "1.91 b",
+    "hazard_block": [
+        {
+            "red": "0"
+        },
+        {
+            "yellow": "0"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Will not burn",
+    "health_hazard":"Extreme danger",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "0.1 %",
+    "sun_contains": "0.1 %",
+    "oceans_contains": "0.00005 %",
+    "human_body_contains": "2.6 %",
+    "earth_crust_contains": "0.002 %",
+    "meteorites_contains": "0.14 %",
+    "start_isotope_number": 10,
+    "stop_isotope_number": 25,
+    "half_life_number": ["200 ms", "590 ms", "11 ms", "9.965 m", "-", "7.13 s", "4.173 s", "622 ms", "271 ms", "130 ms", "87 ms", "13.9 ms", "14.5 ms", "52 ns", "260 ns"],
+    "iso_weight": [10.04165, 11.02609, 12.018613, 13.005738, 14.003074, 15.000108, 16.006101, 17.008450, 18.014079, 19.017029, 20.02337, 21.02711, 22.03439, 23.04122, 24.05104, 25.06066]
+}

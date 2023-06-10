@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Francium",
+    "video": "https://www.youtube.com/watch?v=hpYxllgfMSg&list=PL7A1F4CF36C085DE1&index=87",
+    "image": "Francium/francium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Fr",
+    "latin_name": "Francium",
+    "english_name": "Francium",
+    "year_discovered": "1939",
+    "discovered_by": "Marguerite Perey",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 18
+        },
+        {
+            "P": 8
+        },
+        {
+            "Q": 1
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 87,
+        },
+        {
+            "protons": 87,
+        },
+        {
+            "neutrons": 136
+        }
+    ],
+    "atomic_number": 87,
+    "atomic_weight": "223.0197 (g/mol)",
+    "density": "2.48 (g/cm³)",
+    "melting_point": "8 °C = 46.40 °F = 281.15 K",
+    "boiling_point": "676.8 °C = 1250.24 °F = 949.95 K",
+    "valence_electrons": "1",
+    "period": 7,
+    "group": "I A",
+    "block": "s-block",
+    "emission_spectrum": "Francium/Fr.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "2 (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "----°C<sup>-1</sup>)",
+    "vaporization_heat": "65 kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>1</sup>",
+    "oxidation_state": "+1",
+    "ion_charge": "Fr<sup>+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "290 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "348 (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Francium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "----",
+    "CAS_number": "CAS7440-73-5",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "---- (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale 0.7",
+    "electron_affinity": "1 KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "21.6 m",
+    "life_time": "0.5 hours",
+    "barn": "0 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 199,
+    "stop_isotope_number": 204,
+    "half_life_number": ["16 ms", "24 ms", "67 ms", "290 ms", "550 ms", "1.7 ms"],
+    "iso_weight": [199.00726, 200.00657, 201.00386, 202.00337, 203.00092, 204.00065]
+}

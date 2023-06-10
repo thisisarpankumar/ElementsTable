@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Titanium",
+    "video": "https://www.youtube.com/watch?v=MpFTQYynrc4&list=PL7A1F4CF36C085DE1&index=22",
+    "image": "Titanium/titanium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Ti",
+    "latin_name": "Titanium",
+    "english_name": "Titanium",
+    "year_discovered": "1795",
+    "discovered_by": "William Gregor",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 10
+        },
+        {
+            "N": 2
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 22,
+        },
+        {
+            "protons": 22,
+        },
+        {
+            "neutrons": 26
+        }
+    ],
+    "atomic_number": 22,
+    "atomic_weight": "47.867 (g/mol)",
+    "density": "4.54 (g/cm³)",
+    "melting_point": "1660 °C = 3020.00 °F = 1933.15 K",
+    "boiling_point": "3287 °C = 5948.60 °F = 3560.15 K",
+    "valence_electrons": 4,
+    "period": 4,
+    "group": "IV B",
+    "block": "d-block",
+    "emission_spectrum": "Titanium/Ti.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "18.7 (kJ &middot K)",
+    "specific_heat": "520 J/(kg &middot; K)",
+    "thermal_expansion": "8.6 &middot; 10<sup>-6</sup> °C<sup>-1</sup>)",
+    "vaporization_heat": "425 kJ &middot; mol",
+    "electron_configuration": "[Ar] 4s<sup>2</sup> 3d<sup>2</sup>",
+    "oxidation_state": "-2, -1, +1, +2, +3, 4",
+    "ion_charge": "Ti<sup>3+</sup>, Ti<sup>4+</sup>",
+    "ionization_potential": "6.81 eV",
+    "atomic_radius": "147 (pm)",
+    "covalent_radius": "136 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "2.5 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0001807",
+    "mass_susceptibility": "0.0000000401",
+    "molar_susceptibility": "1.919 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "4.2 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-272.75 °C = -458.95 °F = 0.4 K",
+    "lattice_structure": "Titanium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "a=2.951 \u212B; с=4.697 \u212B",
+    "attitude": "1.587",
+    "debye_temperature": "106.85 °C = 224.33 °F = 380 K",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-32-6",
+    "CID_number": "CID23963",
+    "RTEC_number": "----",
+    "brinell_hardness": "716-2770 MPa",
+    "mohs_hardness": "6",
+    "vickers_hardness": "830-3420 MPa",
+    "bulk_modulus": "110 GPa",
+    "Young_modulus": "116 GPa",
+    "liquid_density": "4.11 (g/cm<sup>3</sup>)",
+    "molar_volume": "10.6 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.32 &micro;",
+    "shear_modulus": "44 GPa",
+    "sound_speed": "4140 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "22 W/mK",
+    "electronegative": "Pauling Scale 1.54",
+    "electron_affinity": "7.6 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "6.1 b",
+    "hazard_block": [
+        {
+            "red": "1"
+        },
+        {
+            "yellow": "2"
+        },
+        {
+            "blue": "1"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Above 93.3 °C",
+    "health_hazard":"Slightly hazardous",
+    "reactivity": "Violent chemical change",
+    "specific": "----",
+    "universe_contains": "0.0003 %",
+    "sun_contains": "0.0004 %",
+    "oceans_contains": "1 &middot; 10<sup>-7</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.66 %",
+    "meteorites_contains": "0.054 %",
+    "start_isotope_number": 38,
+    "stop_isotope_number": 43,
+    "half_life_number": ["120 ns", "31 ms", "53.3 ms", "80.4 ms", "199 ms", "509 ms"],
+    "iso_weight": [38.00977, 39.00161, 39.99050, 40.98315, 41.97303, 42.96852]
+}

@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Dubnium",
+    "video": "https://www.youtube.com/watch?v=5d4VekfRnMs&list=PL7A1F4CF36C085DE1&index=105",
+    "image": "Dubnium/dubnium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Db",
+    "latin_name": "Dubnium",
+    "english_name": "Dubnium",
+    "year_discovered": "1968",
+    "discovered_by": "Georgiy Flerov",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 32
+        },
+        {
+            "P": 11
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 105,
+        },
+        {
+            "protons": 105,
+        },
+        {
+            "neutrons": 157
+        }
+    ],
+    "atomic_number": 105,
+    "atomic_weight": "262.1138 (g/mol)",
+    "density": "29 (g/cm³)",
+    "melting_point": "----",
+    "boiling_point": "----",
+    "valence_electrons": "5",
+    "period": 7,
+    "group": "V A",
+    "block": "d-block",
+    "emission_spectrum": "Dubnium/Db.gif",
+    "phase": "----",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup>5f<sup>14</sup>6d<sup>3</sup>",
+    "oxidation_state": "+5",
+    "ion_charge": "----",
+    "ionization_potential": "---- ev",
+    "atomic_radius": "---- (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Dubnium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "----",
+    "CAS_number": "CAS53850-35-4",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "---- (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale ----",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "5.5 hour",
+    "life_time": "8.3 hour",
+    "barn": "0 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 256,
+    "stop_isotope_number": 258,
+    "half_life_number": ["1.9 s", "1.53 s", "4.5"],
+    "iso_weight": [256.10813, 257.1010772, 258.10923]
+}

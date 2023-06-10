@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Praseodymium",
+    "video": "https://www.youtube.com/watch?v=IL06CzXF3ns&list=PL7A1F4CF36C085DE1&index=59",
+    "image": "Praseodymium/praseodymium.jpg",
+    "species": "LANTHANOIDS",
+    "symbol": "Pr",
+    "latin_name": "Praseodymium",
+    "english_name": "Praseodymium",
+    "year_discovered": "1885",
+    "discovered_by": "André-Louis Debierne",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 21
+        },
+        {
+            "O": 8
+        },
+        {
+            "P": 2
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 59,
+        },
+        {
+            "protons": 59,
+        },
+        {
+            "neutrons": 82
+        }
+    ],
+    "atomic_number": 59,
+    "atomic_weight": "140.904 (g/mol)",
+    "density": "6.773 (g/cm³)",
+    "melting_point": "931 °C = 1707.80 °F = 1204.15 K",
+    "boiling_point": "3512 °C = 6353.60 °F = 3785.15 K",
+    "valence_electrons": 4,
+    "period": 6,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Praseodymium/Pr.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "6.9 (kJ &middot K)",
+    "specific_heat": "193 J/(kg &middot; K)",
+    "thermal_expansion": "6.7 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "330 kJ &middot; mol",
+    "electron_configuration": "[Xe] 3s<sup>2</sup> 4f<sup>3</sup>",
+    "oxidation_state": "+2, +3, +4, +5",
+    "ion_charge": "Pr<sup>3+</sup>",
+    "ionization_potential": "5.76 eV",
+    "atomic_radius": "182 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "1.4 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0028087",
+    "mass_susceptibility": "0.000000423",
+    "molar_susceptibility": "5.9604 &middot; 10<sup>-8</sup> m<sup>3</sup>/mol",
+    "resistivity": "7 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Praseodymium/Double-Hexagonal-Close-Packed.png",
+    "crystal_structure": "Double hexagonal close-packed",
+    "grid": "a=3.673 \u212B; c=11.84 \u212B",
+    "attitude": "3.22",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-10-0",
+    "CID_number": "CID23942",
+    "RTEC_number": "----",
+    "brinell_hardness": "250-640 MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "250-745 GPa",
+    "bulk_modulus": "28.8 GPa",
+    "Young_modulus": "37.3 GPa",
+    "liquid_density": "6.5 (g/cm<sup>3</sup>)",
+    "molar_volume": "20.8 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.28 &micro;",
+    "shear_modulus": "15 GPa",
+    "sound_speed": "2280 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "13 W/mK",
+    "electronegative": "Pauling Scale 1.13",
+    "electron_affinity": "50 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "11.4 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "1 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "6 &middot; 10<sup>-11</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.00086 %",
+    "meteorites_contains": "9.8 &middot; 10<sup>-11</sup> %",
+    "start_isotope_number": 121,
+    "stop_isotope_number": 127,
+    "half_life_number": ["600 ms", "500 ms", "800 ms", "1.2", "3.3 s", "3.12 s", "4.2 s"],
+    "iso_weight": [120.95536, 121.95181, 122.94596, 123.94296, 124.93783, 125.93531, 126.93083]
+}

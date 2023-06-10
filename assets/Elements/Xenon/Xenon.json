@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Xenon",
+    "video": "https://www.youtube.com/watch?v=Ejoct_6pQ74&list=PL7A1F4CF36C085DE1&index=54",
+    "image": "Xenon/xenon.jpg",
+    "species": "NOBLE GASES",
+    "symbol": "Ba",
+    "latin_name": "Xenon",
+    "english_name": "Xenon",
+    "year_discovered": "1898",
+    "discovered_by": "William Ramsey, Morris William Travers",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 18
+        },
+        {
+            "O": 8
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 54,
+        },
+        {
+            "protons": 54,
+        },
+        {
+            "neutrons": 77
+        }
+    ],
+    "atomic_number": 54,
+    "atomic_weight": "131.293 (g/mol)",
+    "density": "0.005894 (g/cm³)",
+    "melting_point": "-111.8 °C = -169.24 °F = 161.35 K",
+    "boiling_point": "-108.1 °C = -162.58 °F = 165.05 K",
+    "valence_electrons": 0,
+    "period": 5,
+    "group": "VIII A",
+    "block": "p-block",
+    "emission_spectrum": "Xenon/Xe.gif",
+    "phase": "Gas",
+    "phase_icon": "----",
+    "fusion_heat": "2.3 (kJ &middot K)",
+    "specific_heat": "158.32 J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "12.64 kJ &middot; mol",
+    "electron_configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>6</sup>",
+    "oxidation_state": "+2, +4, +6, +8",
+    "ion_charge": "----",
+    "ionization_potential": "12.08 eV",
+    "atomic_radius": "108 (pm)",
+    "covalent_radius": "130 (pm)",
+    "van_der_waals_radius": "216 (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.0000000254",
+    "mass_susceptibility": "-0.0000000043",
+    "molar_susceptibility": "-5.65 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Xenon/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "a=6.200 \u212B",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "Fm_3m",
+    "space_group_number": "225",
+    "CAS_number": "CAS7440-63-3",
+    "CID_number": "CID23991",
+    "RTEC_number": "RTECSZE1280000",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "42.9 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "1090 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "0.00565 W/mK",
+    "electronegative": "Pauling Scale 2.6",
+    "electron_affinity": "0 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "25 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "1 &middot; 10<sup>-6</sup> %",
+    "sun_contains": "5 &middot; 10<sup>-10</sup> %",
+    "oceans_contains": "5 &middot; 10<sup>-10</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "2 &middot; 10<sup>-9</sup> %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 110,
+    "stop_isotope_number": 119,
+    "half_life_number": ["310 ms", "740 ms", "2.7 s", "2.74 s", "10 s", "18 s", "59 s", "61 s", "3.8 m", "5.8 m"],
+    "iso_weight": [109.94428, 110.94130, 111.93562, 112.93334, 113.92798, 114.92629, 115.92458, 116.92035, 117.91617, 118.91541]
+}

@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Flerovium",
+    "video": "https://www.youtube.com/watch?v=5L-NNFPiRog&list=PL7A1F4CF36C085DE1&index=114",
+    "image": "Flerovium/flerovium.jpg",
+    "species": "POST-TRANSITION METAL",
+    "symbol": "Fl",
+    "latin_name": "Flerovium",
+    "english_name": "Flerovium",
+    "year_discovered": "1998",
+    "discovered_by": "Joint Institute for Nuclear Research (JINR)",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 32
+        },
+        {
+            "P": 18
+        },
+        {
+            "Q": 4
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 114,
+        },
+        {
+            "protons": 114,
+        },
+        {
+            "neutrons": 173
+        }
+    ],
+    "atomic_number": 114,
+    "atomic_weight": "287.1904 (g/mol)",
+    "density": "14 (g/cm³)",
+    "melting_point": "68 °C = 154.40 °F = 341.15 K",
+    "boiling_point": "146 °C = 294.80 °F = 419.15 K",
+    "valence_electrons": "----",
+    "period": 6,
+    "group": "II A",
+    "block": "p-block",
+    "emission_spectrum": "Flerovium/Fl.gif",
+    "phase": "----",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup>5f<sup>14</sup>6d<sup>10</sup>7p<sup>2</sup>",
+    "oxidation_state": "----",
+    "ion_charge": "----",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "---- (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Flerovium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "----",
+    "CAS_number": "CAS54085-16-4",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "---- (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale ----",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "80 s",
+    "life_time": "2 m",
+    "barn": "0 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 285,
+    "stop_isotope_number": 287,
+    "half_life_number": ["125 ms", "130 ms", "510 ms"],
+    "iso_weight": [285.18370, 286.18386, 287.18560]
+}

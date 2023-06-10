@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Chromium",
+    "video": "https://www.youtube.com/watch?v=9NPjdDS11C4&list=PL7A1F4CF36C085DE1&index=24",
+    "image": "Chromium/chromium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Cr",
+    "latin_name": "Chromium",
+    "english_name": "Chromium",
+    "year_discovered": "1797",
+    "discovered_by": "Louis-Nicolas Vauquelin",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 13
+        },
+        {
+            "N": 1
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 24,
+        },
+        {
+            "protons": 24,
+        },
+        {
+            "neutrons": 28
+        }
+    ],
+    "atomic_number": 24,
+    "atomic_weight": "51.9961 (g/mol)",
+    "density": "7.19 (g/cm³)",
+    "melting_point": "1907 °C = 3464.60 °F = 2180.15 K",
+    "boiling_point": "2672 °C = 4841.60 °F = 2945.15 K",
+    "valence_electrons": "6",
+    "period": 4,
+    "group": "VI A",
+    "block": "d-block",
+    "emission_spectrum": "Chromium/Cr.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "20.5 (kJ &middot K)",
+    "specific_heat": "448 J/(kg &middot; K)",
+    "thermal_expansion": "4.9 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "339 kJ &middot; mol",
+    "electron_configuration": "[Ar] 3d<sup>5</sup>3s<sup>1</sup>",
+    "oxidation_state": "-4, -2, -1, +1, +2, +3, +4, +5, +6",
+    "ion_charge": "Cr<sup>2+</sup>, Cr<sup>3+</sup>",
+    "ionization_potential": "6.74 ev",
+    "atomic_radius": "130 (pm)",
+    "covalent_radius": "127 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "7.9 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Antiferromagnet",
+    "volume_susceptibility": "0.0003177",
+    "mass_susceptibility": "0.0000000445",
+    "molar_susceptibility": "2.314 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.3 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Chromium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "a=2.885 \u212B; ",
+    "attitude": "----",
+    "debye_temperature": "186.85 °C = 368.33 °F = 460 K",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7440-47-3",
+    "CID_number": "CID23976",
+    "RTEC_number": "RTECSGB4200000",
+    "brinell_hardness": "687-6500 MPa",
+    "mohs_hardness": "8.5",
+    "vickers_hardness": "1060 MPa",
+    "bulk_modulus": "160 GPa",
+    "Young_modulus": "279 GPa",
+    "liquid_density": "6.3 (g/cm<sup>3</sup>)",
+    "molar_volume": "7.23 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.21 &micro;",
+    "shear_modulus": "115 GPa",
+    "sound_speed": "5940 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "94 W/mK",
+    "electronegative": "Pauling Scale 1.66",
+    "electron_affinity": "64.3 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "4.3 b",
+    "hazard_block": [
+        {
+            "red": "2"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Above 93.3 °C",
+    "health_hazard":"Hazardous",
+    "reactivity": "Unstable if heated",
+    "specific": "----",
+    "universe_contains": "0.0015 %",
+    "sun_contains": "0.002 %",
+    "oceans_contains": "5 &middot; 10<sup>-8</sup> %",
+    "human_body_contains": "3 &middot; 10<sup>-6</sup> %",
+    "earth_crust_contains": "0.014 %",
+    "meteorites_contains": "0.03 %",
+    "start_isotope_number": 42,
+    "stop_isotope_number": 67,
+    "half_life_number": ["14 ns", "21.6 ns", "54 ns", "50 ns", "160 ns", "500 ns", "21.56 hours", "42.3 m", "--", "27.7 day", "--", "--", "--", "3.4 m", "5.9 m", "21.1 s", "7 s", "460 ms", "560 ms", "261 ms", "199 ms", "129 ms", "43 ms", "27 ms", "10 ms", "10 ms"],
+    "iso_weight": [42.00643, 42.99747, 43.98555, 44.97964, 45.962900, 46.964032, 57.954032, 48.951335, 49.946044, 50.944767, 50.44767, 51.940507, 52.940649, 53.938880, 54.740839, 55.40653, 56.94363, 57.94435, 58.94859, 59.95008, 60.95472, 61.95661, 62.96186, 63.96441, 64.97016, 65.97338, 66.97955]
+}

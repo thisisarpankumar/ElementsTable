@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Rhodium",
+    "video": "https://www.youtube.com/watch?v=PPSO5798k2I&list=PL7A1F4CF36C085DE1&index=45",
+    "image": "Rhodium/rhodium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Rh",
+    "latin_name": "Rhodium",
+    "english_name": "Rhodium",
+    "year_discovered": "1804",
+    "discovered_by": "William Hyde Wollaston",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 16
+        },
+        {
+            "O": 1
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 45,
+        },
+        {
+            "protons": 45,
+        },
+        {
+            "neutrons": 57
+        }
+    ],
+    "atomic_number": 45,
+    "atomic_weight": "102.905 (g/mol)",
+    "density": "12.41 (g/cm³)",
+    "melting_point": "1964 °C = 3567.20 °F = 2237.15 K",
+    "boiling_point": "3727 °C = 6740.60 °F = 4000.15 K",
+    "valence_electrons": 6,
+    "period": 5,
+    "group": "VIII B",
+    "block": "d-block",
+    "emission_spectrum": "Rhodium/Rh.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "21.7 (kJ &middot K)",
+    "specific_heat": "240 J/(kg &middot; K)",
+    "thermal_expansion": "8.2 &middot; 10<sup>-6</sup> °C<sup>-1</sup>)",
+    "vaporization_heat": "495 kJ &middot; mol",
+    "electron_configuration": "[Kr] 5s<sup>1</sup> 4d<sup>8</sup>",
+    "oxidation_state": "-3, -1, +1, +2, +3, +4, +5, +6",
+    "ion_charge": "Rh<sup>3+</sup>",
+    "ionization_potential": "7.7 eV",
+    "atomic_radius": "134 (pm)",
+    "covalent_radius": "135 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "2.3 &middot; 10<sup>7</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0001643",
+    "mass_susceptibility": "0.0000000132",
+    "molar_susceptibility": "1.4 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "4.3 &middot; 10<sup>-8</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Rhodium/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "a=3.803 \u212B",
+    "attitude": "----",
+    "debye_temperature": "206.85 °C = 404.33 °F = 480 K",
+    "space_group_name": "Fm_3m",
+    "space_group_number": "225",
+    "CAS_number": "CAS7440-16-6",
+    "CID_number": "CID23948",
+    "RTEC_number": "RTECSVI9069000",
+    "brinell_hardness": "980-1350 MPa",
+    "mohs_hardness": "6",
+    "vickers_hardness": "110-8000 MPa",
+    "bulk_modulus": "275 GPa",
+    "Young_modulus": "380 GPa",
+    "liquid_density": "10.7 (g/cm<sup>3</sup>)",
+    "molar_volume": "8.3 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.26 &micro;",
+    "shear_modulus": "150 GPa",
+    "sound_speed": "4700 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "150 W/mK",
+    "electronegative": "Pauling Scale 2.28",
+    "electron_affinity": "109.7 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "145 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "6 &middot; 10<sup>-8</sup> %",
+    "sun_contains": "2 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "7 &middot; 10<sup>-8</sup> %",
+    "meteorites_contains": "0.000018 %",
+    "start_isotope_number": 89,
+    "stop_isotope_number": 104,
+    "half_life_number": ["10 ms", "15 ms", "1.75 s", "4.3 s", "11.9 s", "70.6 s", "5.02 m", "9.90 m", "30.7 m", "8.72 m", "16.1 day", "20.8 day", "3.3 years", "207 days", "Stable", "42.3 s"],
+    "iso_weight": [88.94884, 89.94284, 90.93655, 91.93198, 92.92574, 93.92170, 94.91590, 95.91446, 96.91134, 97.910708, 98.908132, 99.908122, 100.906164, 101.906843, 102.905504, 103.906656]
+}

@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Oxygen",
+    "video": "https://www.youtube.com/watch?v=WuG5WTId-IY&list=PL7A1F4CF36C085DE1&index=8",
+    "image": "Oxygen/oxygen.jpg",
+    "species": "OTHER NONMETALS",
+    "symbol": "O",
+    "latin_name": "Oxygenium",
+    "english_name": "Oxygen",
+    "year_discovered": "1774",
+    "discovered_by": "Michał Sędziwój, Joseph Priestley, Carl Wilhelm Scheele",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 6
+        },
+        {
+            "M": 0
+        },
+        {
+            "N": 0
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 8,
+        },
+        {
+            "protons": 8,
+        },
+        {
+            "neutrons": 8
+        }
+    ],
+    "atomic_number": 8,
+    "atomic_weight": "15.9994 (g/mol)",
+    "density": "0.00142897 (g/cm³)",
+    "melting_point": "-218.79 °C = -361.82 °F = 54.36 K",
+    "boiling_point": "-182.96 °C = -297.33 °F = 90.19 K",
+    "valence_electrons": "2",
+    "period": 2,
+    "group": "VI A",
+    "block": "p-block",
+    "emission_spectrum": "Oxygen/O.gif",
+    "phase": "Gas",
+    "phase_icon": "----",
+    "fusion_heat": "0.222 (kJ &middot K)",
+    "specific_heat": "919 J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "3.41 kJ &middot; mol",
+    "electron_configuration": "[He] 2s<sup>2</sup> 3p<sup>4</sup>",
+    "oxidation_state": "-2, -1, +1, +2",
+    "ion_charge": "O<sup>2-</sup>",
+    "ionization_potential": "13.56 eV",
+    "atomic_radius": "48 (pm)",
+    "covalent_radius": "66 (pm)",
+    "van_der_waals_radius": "152 (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.00000190772",
+    "mass_susceptibility": "0.000001335",
+    "molar_susceptibility": "4.27184 &middot; 10<sup>-8</sup> m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Oxygen/Lattic_simple_cubic.svg.png",
+    "crystal_structure": "Cubic",
+    "grid": "a=5.403 \u212B; b=3.429 \u212B; c=5.086 \u212B; β=135.53°",
+    "attitude": "----",
+    "debye_temperature": "-118.15 °C = -180.67 °F = 155 K",
+    "space_group_name": "----",
+    "space_group_number": "12",
+    "CAS_number": "CAS7782-44-7",
+    "CID_number": "CID997",
+    "RTEC_number": "RTECSRS2060000",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "14 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "317.5 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "0.2658 W/mK",
+    "electronegative": "Pauling Scale 3.44",
+    "electron_affinity": "141 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "0.00028 b",
+    "hazard_block": [
+        {
+            "red": "0"
+        },
+        {
+            "yellow": "2"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Will not burn",
+    "health_hazard":"Extream danger",
+    "reactivity": "Violent chemical change",
+    "specific": "Oxidier",
+    "universe_contains": "1 %",
+    "sun_contains": "0.9 %",
+    "oceans_contains": "86 %",
+    "human_body_contains": "61 %",
+    "earth_crust_contains": "46 %",
+    "meteorites_contains": "40 %",
+    "start_isotope_number": 12,
+    "stop_isotope_number": 24,
+    "half_life_number": ["580 &middot; 10<sup>-24</sup> s", "8.58", "70.598 s", "122.24 s", "-", "-", "-", "26.464 s", "13.51 s", "3.42 s", "2.25 s", "82 ms", "65 ms"],
+    "iso_weight": [12.034405, 13.024812, 14.005896, 15.0030656, 16.9991317, 17.9991610, 19.003580, 20.004076, 21.008656, 22.00997, 23.01569, 24.02047]
+}

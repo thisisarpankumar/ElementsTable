@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Tungsten",
+    "video": "https://www.youtube.com/watch?v=_PccntqMOoI&list=PL7A1F4CF36C085DE1&index=74",
+    "image": "Tungsten/tungsten.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "W",
+    "latin_name": "Wolframium",
+    "english_name": "Tungsten",
+    "year_discovered": "1781",
+    "discovered_by": "Humphry Davy",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 12
+        },
+        {
+            "P": 2
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 74,
+        },
+        {
+            "protons": 74,
+        },
+        {
+            "neutrons": 110
+        }
+    ],
+    "atomic_number": 74,
+    "atomic_weight": "183.84 (g/mol)",
+    "density": "19.26 (g/cm³)",
+    "melting_point": "3422 °C = 6191.60 °F = 3695.15 K",
+    "boiling_point": "5555 °C = 10031.00 °F = 5828.15 K",
+    "valence_electrons": 6,
+    "period": 6,
+    "group": "VI B",
+    "block": "d-block",
+    "emission_spectrum": "Tungsten/W.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "35 (kJ &middot K)",
+    "specific_heat": "132 J/(kg &middot; K)",
+    "thermal_expansion": "4.5 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "800 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>2</sup> 4f<sup>14</sup> 5d<sup>4</sup>",
+    "oxidation_state": "-4, -2, -1, +1, +2, +3, +4, +5, +6",
+    "ion_charge": "W<sup>6+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "141 (pm)",
+    "covalent_radius": "146 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "2 &middot; 10<sup>7</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0000751",
+    "mass_susceptibility": "0.0000000039",
+    "molar_susceptibility": "8.44 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "5.6 &middot; 10<sup>-8</sup> m\u03A9",
+    "superconducting_point": "-273.13 °C = -459.64 °F = 0.015 K",
+    "lattice_structure": "Tungsten/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "a=3.160 \u212B",
+    "attitude": "----",
+    "debye_temperature": "36.85 °C = 98.33 °F = 310 K",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7440-33-7",
+    "CID_number": "CID23964",
+    "RTEC_number": "RTECSYO7175000",
+    "brinell_hardness": "2000-4000 MPa",
+    "mohs_hardness": "9",
+    "vickers_hardness": "3430-4600 MPa",
+    "bulk_modulus": "310 GPa",
+    "Young_modulus": "411 GPa",
+    "liquid_density": "17.6 (g/cm<sup>3</sup>)",
+    "molar_volume": "9.53 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.28 &micro;",
+    "shear_modulus": "161 GPa",
+    "sound_speed": "5174 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "170 W/mK",
+    "electronegative": "Pauling Scale 2.36",
+    "electron_affinity": "78.6 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "4.3 b",
+    "hazard_block": [
+        {
+            "red": "2"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Below 93.3 °C",
+    "health_hazard":"slightly hazardous",
+    "reactivity": "Unstable if heated",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "4 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "1.2 &middot; 10<sup>-11</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.00011 %",
+    "meteorites_contains": "0.000012 %",
+    "start_isotope_number": 158,
+    "stop_isotope_number": 164,
+    "half_life_number": ["1.37 ms", "8.2 ms", "90 ms", "409 ms", "1.36 s", "2.8 s", "3.6 s"],
+    "iso_weight": [157.97456, 158.97292, 159.96848, 160.396736, 161.963, 162.9252, 163.95895]
+}

@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Magnesium",
+    "video": "https://www.youtube.com/watch?v=FKkWdizutxI&list=PL7A1F4CF36C085DE1&index=12",
+    "image": "Magnesium/magnesium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Mg",
+    "latin_name": "Magnesium",
+    "english_name": "Magnesium",
+    "year_discovered": "1808",
+    "discovered_by": "Joseph Black, Humphry Davy",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 2
+        },
+        {
+            "N": 0
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 12,
+        },
+        {
+            "protons": 12,
+        },
+        {
+            "neutrons": 12
+        }
+    ],
+    "atomic_number": 12,
+    "atomic_weight": "24.3050 (g/mol)",
+    "density": "1.738 (g/cm³)",
+    "melting_point": "650 °C = 1202.00 °F = 923.15 K",
+    "boiling_point": "1090 °C = 1994.00 °F = 1363.15 K",
+    "valence_electrons": "2",
+    "period": 3,
+    "group": "II A",
+    "block": "s-block",
+    "emission_spectrum": "Magnesium/Mg.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "8.7 (kJ &middot K)",
+    "specific_heat": "1020 J/(kg &middot; K)",
+    "thermal_expansion": "24.8 °C<sup>-1</sup>)",
+    "vaporization_heat": "128 kJ &middot; mol",
+    "electron_configuration": "[Ne] 3s<sup>2</sup>",
+    "oxidation_state": "+1, +2",
+    "ion_charge": "Mg<sup>2+</sup>",
+    "ionization_potential": "7.61 eV",
+    "atomic_radius": "160 (pm)",
+    "covalent_radius": "130 (pm)",
+    "van_der_waals_radius": "173 (pm)",
+    "electrical_conductivity": "2.3 &middot; 10<sup>7</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.000012",
+    "mass_susceptibility": "0.0000000069",
+    "molar_susceptibility": "1.68 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "4.4 &middot; 10<sup>-8</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Magnesium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "a=0.32029 \u212B; c=0.52000 \u212B",
+    "attitude": "1.624",
+    "debye_temperature": "44.85 °C = 112.73 °F = 318 K",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7439-95-4",
+    "CID_number": "CID5462224",
+    "RTEC_number": "----",
+    "brinell_hardness": "44-260 MPa",
+    "mohs_hardness": "2.5",
+    "vickers_hardness": "----",
+    "bulk_modulus": "35.4 GPa",
+    "Young_modulus": "45 GPa",
+    "liquid_density": "1.584 (g/cm<sup>3</sup>)",
+    "molar_volume": "14 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.29 &micro;",
+    "shear_modulus": "17 GPa",
+    "sound_speed": "4602 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "160 W/mK",
+    "electronegative": "Pauling Scale 1.31",
+    "electron_affinity": "0 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "0.063 b",
+    "hazard_block": [
+        {
+            "red": "1"
+        },
+        {
+            "yellow": "1"
+        },
+        {
+            "blue": "0"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Above 93.3 °C",
+    "health_hazard":"Normal material",
+    "reactivity": "Unstable if heated",
+    "specific": "----",
+    "universe_contains": "0.06 %",
+    "sun_contains": "0.07 %",
+    "oceans_contains": "0.13 %",
+    "human_body_contains": "0.027 %",
+    "earth_crust_contains": "2.9 %",
+    "meteorites_contains": "12 %",
+    "start_isotope_number": 19,
+    "stop_isotope_number": 28,
+    "half_life_number": ["-", "90.8 years", "122 years", "3.8755 s", "11.317 s", "-", "-", "-", "9.458 m", "20.915 hours"],
+    "iso_weight": [19.03547, 20.01886, 21.0117, 21.9995, 22.9941, 23.98504, 24.98583, 25.98259, 26.98434, 27.98387]
+}

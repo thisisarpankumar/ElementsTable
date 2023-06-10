@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Iron",
+    "video": "https://www.youtube.com/watch?v=euQUgp5AY-Y&list=PL7A1F4CF36C085DE1&index=26",
+    "image": "Iron/iron.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Fe",
+    "latin_name": "Ferrum",
+    "english_name": "Iron",
+    "year_discovered": "Anicient India",
+    "discovered_by": "----",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 14
+        },
+        {
+            "N": 2
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 26,
+        },
+        {
+            "protons": 26,
+        },
+        {
+            "neutrons": 30
+        }
+    ],
+    "atomic_number": 26,
+    "atomic_weight": "55.845 (g/mol)",
+    "density": "7.88 (g/cm³)",
+    "melting_point": "1539 °C = 2802.20 °F = 1812.15 K",
+    "boiling_point": "2862 °C = 5183.60 °F = 3135.15 K",
+    "valence_electrons": "3",
+    "period": 4,
+    "group": "VII B",
+    "block": "d-block",
+    "emission_spectrum": "Iron/Fe.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "13.8 (kJ &middot K)",
+    "specific_heat": "449 J/(kg &middot; K)",
+    "thermal_expansion": "11.8 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "347 kJ &middot; mol",
+    "electron_configuration": "[Ar] 3d<sup>6</sup>4s<sup>2</sup>",
+    "oxidation_state": "-2, -1, +1, +2, +3, +4, +5, +6",
+    "ion_charge": "Fe<sup>2+</sup>Fe<sup>3+</sup>",
+    "ionization_potential": "7.83 eV",
+    "atomic_radius": "126 (pm)",
+    "covalent_radius": "125 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "1 &middot; 10<sup>7</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Ferromagnetic",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "9.7 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Iron/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "a=2.866 \u212B",
+    "attitude": "----",
+    "debye_temperature": "186.85 °C = 368.33 °F = 460 K",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7439-89-6",
+    "CID_number": "CID23925",
+    "RTEC_number": "RTECSNO4565500",
+    "brinell_hardness": "200-1180 MPa",
+    "mohs_hardness": "4",
+    "vickers_hardness": "608 MPa",
+    "bulk_modulus": "170 GPa",
+    "Young_modulus": "211 GPa",
+    "liquid_density": "6.98 (g/cm<sup>3</sup>)",
+    "molar_volume": "6.7 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.29 &micro;",
+    "shear_modulus": "82 GPa",
+    "sound_speed": "4910 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "80 W/mK",
+    "electronegative": "Pauling Scale 1.83",
+    "electron_affinity": "15.7 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "2.56 b",
+    "hazard_block": [
+        {
+            "red": "1"
+        },
+        {
+            "yellow": "0"
+        },
+        {
+            "blue": "1"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Above 93.3 °C",
+    "health_hazard":"Slightly hazardous",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "0.11 %",
+    "sun_contains": "0.1 %",
+    "oceans_contains": "3 &middot; 10<sup>-7</sup> %",
+    "human_body_contains": "0.006 %",
+    "earth_crust_contains": "6.3 %",
+    "meteorites_contains": "22 %",
+    "start_isotope_number": 45,
+    "stop_isotope_number": 73,
+    "half_life_number": ["4.9 ms", "9 ms", "21.8 ms", "44 ms", "70 ms", "155 ms", "305 ms", "8.275 hours", "8.51 m", "--", "2.737 years", "--", "--", "--", "44.5 days", "2600000 years", "5.98 m", "68 s", "6.1 s", "2 s", "2 s", "1.3 s", "440 ms", "394 ms", "187 ms", "109 ms", "94 ms", "30 ms", "10 ms", "633 ns"],
+    "iso_weight": [45.01459, 46.00081, 46.99289, 47.98050, 48.97361, 49.96299, 50.95682, 51.94811, 52.945307, 53.939610, 54.938293, 55.934937, 56.935394, 57.933275, 58.934875, 59.934072, 60.936745, 61.936767, 62.94037, 63.9412, 64.94538, 65.94678, 66.95095, 67.95370, 68.95878, 69.96672, 70.96672, 71.96962, NaN]
+}

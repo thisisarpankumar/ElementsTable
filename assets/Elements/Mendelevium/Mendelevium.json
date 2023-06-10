@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Mendelevium",
+    "video": "https://www.youtube.com/watch?v=0JlshAo8DuE&list=PL7A1F4CF36C085DE1&index=101",
+    "image": "Mendelevium/mendelevium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Md",
+    "latin_name": "Mendelevium",
+    "english_name": "Mendelevium",
+    "year_discovered": "1955",
+    "discovered_by": "Glenn Theodore Seaborg",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 31
+        },
+        {
+            "P": 8
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 101,
+        },
+        {
+            "protons": 101,
+        },
+        {
+            "neutrons": 157
+        }
+    ],
+    "atomic_number": 101,
+    "atomic_weight": "258.0951 (g/mol)",
+    "density": "---- (g/cm³)",
+    "melting_point": "825 °C = 1517.00 °F = 1098.15 K",
+    "boiling_point": "----",
+    "valence_electrons": "2",
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Mendelevium/Md.gif",
+    "phase": "----",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup> 5f<sup>13</sup>",
+    "oxidation_state": "+2, +3",
+    "ion_charge": "Md<sup>2+</sup>, Md<sup>3+</sup>",
+    "ionization_potential": "----",
+    "atomic_radius": "287 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Mendelevium/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "----",
+    "CAS_number": "CAS7440-11-1",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "---- (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale 1.3",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "51.5 days",
+    "life_time": "74.3 days",
+    "barn": "0 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 245,
+    "stop_isotope_number": 248,
+    "half_life_number": ["900 &micro;s", "400ms", "1 s", "1.12 s"],
+    "iso_weight": [245.08083, 200, 246.08189, 247.08164]
+}

@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Thallium",
+    "video": "https://www.youtube.com/watch?v=4SVhSZ-rfLM&list=PL7A1F4CF36C085DE1&index=81",
+    "image": "Thallium/thallium.jpg",
+    "species": "POST-TRANSITION METAL",
+    "symbol": "Tl",
+    "latin_name": "Thallium",
+    "english_name": "Thallium",
+    "year_discovered": "1861",
+    "discovered_by": "William Crookes",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 18
+        },
+        {
+            "P": 3
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 81,
+        },
+        {
+            "protons": 81,
+        },
+        {
+            "neutrons": 123
+        }
+    ],
+    "atomic_number": 81,
+    "atomic_weight": "204.383 (g/mol)",
+    "density": "11.85 (g/cm³)",
+    "melting_point": "303.6 °C = 578.48 °F = 576.75 K",
+    "boiling_point": "1473 °C = 2683.40 °F = 1746.15 K",
+    "valence_electrons": 3,
+    "period": 6,
+    "group": "II A",
+    "block": "p-block",
+    "emission_spectrum": "Thallium/Tl.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "4.2 (kJ &middot K)",
+    "specific_heat": "129 J/(kg &middot; K)",
+    "thermal_expansion": "29.9 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "165 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>2</sup> 4f<sup>14</sup> 5d<sup>10</sup> 6p<sup>1</sup>",
+    "oxidation_state": "-5, -2, -1, +1, +2",
+    "ion_charge": "Tl<sup>+</sup>, Tl<sup>3+</sup>",
+    "ionization_potential": "6.08 eV",
+    "atomic_radius": "171 (pm)",
+    "covalent_radius": "148 (pm)",
+    "van_der_waals_radius": "196 (pm)",
+    "electrical_conductivity": "6.7 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.0000356",
+    "mass_susceptibility": "-0.000000003",
+    "molar_susceptibility": "-6.13 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.5 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-270.77 °C = -455.39 °F = 2.38 K",
+    "lattice_structure": "Thallium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "a=3.456 \u212B; b=5.525 \u212B",
+    "attitude": "1.599",
+    "debye_temperature": "-177.15 °C = -286.87 °F = 96 K",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-28-0",
+    "CID_number": "CID5359464",
+    "RTEC_number": "RTECSXG3425000",
+    "brinell_hardness": "26.5-44.7 MPa",
+    "mohs_hardness": "1",
+    "vickers_hardness": "----",
+    "bulk_modulus": "43 GPa",
+    "Young_modulus": "8 GPa",
+    "liquid_density": "11.22 (g/cm<sup>3</sup>)",
+    "molar_volume": "17.2 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.45 &micro;",
+    "shear_modulus": "2.8 GPa",
+    "sound_speed": "818 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "46 W/mK",
+    "electronegative": "Pauling Scale 1.62",
+    "electron_affinity": "19.2 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "3.4 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "1 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "1 &middot; 10<sup>-10</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.000054 %",
+    "meteorites_contains": "7.9 &middot; 10<sup>-6</sup> %",
+    "start_isotope_number": 176,
+    "stop_isotope_number": 212,
+    "half_life_number": ["5.2 ms", "18 ms", "255 ms", "270 ms", "1.5 s", "3.2 s", "2.0 s", "6.9 s", "9.7 s", "19.5 s", "40 s", "51 s", "71 s", "2.3 m", "2.6 m", "20 m", "10.8 m", "21.6 m", "33 m", "1.16 hours", "1.84 hours", "2.84 hours", "5.3 hours", "7.42 hours", "26.1 hours", "72.912 hours", "12.23 days", "Stable", "3.78 years", "Stable", "4.200 m", "4.77 m", "3.053 m", "2.161 m", "1.30 m", "1 m", "30 s"],
+    "iso_weight": [176.0059, 176.99642, 177.99490, 178.99109, 179.98991, 180.98625, 181.98567, 182.98219, 183.98187, 184.97879, 185.97833, 186.97590, 187.97601, 188.97358, 189.97388, 190.97178, 191.97223, 192.97067, 193.97120, 194.96977, 195.97048, 196.96957, 197.97048, 198.97048, 199.97096, 200.97081, 201.97210, 202.97234, 203.97386, 204.97442, 205.97611, 206.97741, 207.98201, 208.98535, 209.99007, 210.99348, 211.99823]
+}

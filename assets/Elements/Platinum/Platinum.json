@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Platinum",
+    "video": "https://www.youtube.com/watch?v=byzaoji_9kk&list=PL7A1F4CF36C085DE1&index=78",
+    "image": "Platinum/platinum.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Pt",
+    "latin_name": "Platinum",
+    "english_name": "Platinum",
+    "year_discovered": "1735",
+    "discovered_by": "Antonio de Ulloa",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 17
+        },
+        {
+            "P": 1
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 78,
+        },
+        {
+            "protons": 78,
+        },
+        {
+            "neutrons": 117
+        }
+    ],
+    "atomic_number": 78,
+    "atomic_weight": "195.084 (g/mol)",
+    "density": "21.45 (g/cm³)",
+    "melting_point": "1768 °C = 3214.40 °F = 2041.15 K",
+    "boiling_point": "3825 °C = 6917.00 °F = 4098.15 K",
+    "valence_electrons": 6,
+    "period": 6,
+    "group": "VIII B",
+    "block": "d-block",
+    "emission_spectrum": "Platinum/Pt.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "20 (kJ &middot K)",
+    "specific_heat": "133 J/(kg &middot; K)",
+    "thermal_expansion": "8.9 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "490 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>1</sup> 4f<sup>14</sup> 5d<sup>9</sup>",
+    "oxidation_state": "-3, -2, -1, +1, +2, +3, +4, +5, +6",
+    "ion_charge": "Pt<sup>2+</sup>, Pt<sup>4+</sup>",
+    "ionization_potential": "8.9 eV",
+    "atomic_radius": "139 (pm)",
+    "covalent_radius": "128 (pm)",
+    "van_der_waals_radius": "175 (pm)",
+    "electrical_conductivity": "9.4 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0002573",
+    "mass_susceptibility": "0.0000000122",
+    "molar_susceptibility": "2.38 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.06 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Platinum/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "a=3.920 \u212B",
+    "attitude": "----",
+    "debye_temperature": "-43.15 °C = -45.67 °F = 230 K",
+    "space_group_name": "Fm_3m",
+    "space_group_number": "225",
+    "CAS_number": "CAS7440-06-4",
+    "CID_number": "CID23939",
+    "RTEC_number": "RTECSTP2160000",
+    "brinell_hardness": "300-500 MPa",
+    "mohs_hardness": "3.5",
+    "vickers_hardness": "400-550",
+    "bulk_modulus": "230 GPa",
+    "Young_modulus": "168 GPa",
+    "liquid_density": "19.77 (g/cm<sup>3</sup>)",
+    "molar_volume": "9.1 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.38 &micro;",
+    "shear_modulus": "61 GPa",
+    "sound_speed": "2680 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "72 W/mK",
+    "electronegative": "Pauling Scale 2.28",
+    "electron_affinity": "205.3 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "10 b",
+    "hazard_block": [
+        {
+            "red": "2"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Below 93.3 °C",
+    "health_hazard":"Slightly hazardous",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "9 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "3.7 &middot; 10<sup>-6</sup> %",
+    "meteorites_contains": "0.000098 %",
+    "start_isotope_number": 166,
+    "stop_isotope_number": 205,
+    "half_life_number": ["300 &micro;s", "700 &micro;s", "2.00 ms", "37.7 ms", "14 ms", "5.1 ms", "98.4 ms", "365 ms", "889 ms", "2.53 s", "6.33 s", "10.6 s", "21.1 s", "21.2 s", "56 s", "52 s", "2.2 m", "6.5 m", "17.3 m", "71 m", "2.08 hours", "2.35 hours", "10.2 days", "10.87 hours", "6.5 &middot; 10<sup>11</sup>", "2.8 days", "-", "50 years", "-", "-", "-", "19.8 hours", "-", "", "30.8 m", "12.5 hours", "2.5 m", "44 hours", "10 s", "10.3 s", "300 ns"],
+    "iso_weight": [165.99486, 166.99298, 167.98815, 168.98672, 169.98124, 170.98124, 171.97734, 172.97644, 173.97281, 174.97241, 175.96894, 176.96846, 177.96564, 178.96536, 179.96303, 180.96309, 181.96117, 182.96159, 183.95992, 184.96062, 185.95935, 186.96059, 187.95939, 188.96083, 189.95993, 190.96167, 191.96103, 192.96298, 193.96268, 194.96479, 195.96495, 196.96734, 197.9678, 198.9705, 199.9714, 200.9743, 201.9757]
+}

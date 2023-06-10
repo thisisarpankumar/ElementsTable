@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Rhenium",
+    "video": "https://www.youtube.com/watch?v=VRccwkEmOYg&list=PL7A1F4CF36C085DE1&index=75",
+    "image": "Rhenium/rhenium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Re",
+    "latin_name": "Rhenium",
+    "english_name": "Rhenium",
+    "year_discovered": "1925",
+    "discovered_by": "----",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 13
+        },
+        {
+            "P": 2
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 75,
+        },
+        {
+            "protons": 75,
+        },
+        {
+            "neutrons": 111
+        }
+    ],
+    "atomic_number": 75,
+    "atomic_weight": "186.207 (g/mol)",
+    "density": "21.03 (g/cm³)",
+    "melting_point": "3180 °C = 5756.00 °F = 3453.15 K",
+    "boiling_point": "5627 °C = 10160.60 °F = 5900.15 K",
+    "valence_electrons": 7,
+    "period": 6,
+    "group": "VII B",
+    "block": "d-block",
+    "emission_spectrum": "Rhenium/Re.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "33 (kJ &middot K)",
+    "specific_heat": "137 J/(kg &middot; K)",
+    "thermal_expansion": "6.2 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "705 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>2</sup> 4f<sup>14</sup> 5d<sup>5</sup>",
+    "oxidation_state": "-3, -1, +1, +2, +3, +4, +5, +6, +7",
+    "ion_charge": "Re<sup>7+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "137 (pm)",
+    "covalent_radius": "159 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "5.6 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0000967",
+    "mass_susceptibility": "0.0000000046",
+    "molar_susceptibility": "8.49 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.8 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-271.45 °C = -456.61 °F = 1.7 K",
+    "lattice_structure": "Rhenium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "a=2.761 \u212B; c=4.456 \u212B",
+    "attitude": "1.614",
+    "debye_temperature": "142.85 °C = 289.13 °F = 416 K",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-15-5",
+    "CID_number": "CID23947",
+    "RTEC_number": "RTECSVI0780000",
+    "brinell_hardness": "1320-2500 MPa",
+    "mohs_hardness": "7",
+    "vickers_hardness": "1350-7850",
+    "bulk_modulus": "370 GPa",
+    "Young_modulus": "463 GPa",
+    "liquid_density": "18.9 (g/cm<sup>3</sup>)",
+    "molar_volume": "8.85 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.3 &micro;",
+    "shear_modulus": "178 GPa",
+    "sound_speed": "4700 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "48 W/mK",
+    "electronegative": "Pauling Scale 1.9",
+    "electron_affinity": "14.5 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "90 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "1 &middot; 10<sup>-8</sup> %",
+    "oceans_contains": "1 &middot; 10<sup>-11</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "2.6 &middot; 10<sup>-11</sup> %",
+    "meteorites_contains": "4.9 &middot; 10<sup>-11</sup> %",
+    "start_isotope_number": 160,
+    "stop_isotope_number": 174,
+    "half_life_number": ["860 ms", "0.37 ms", "107 ms", "390 ms", "0.53 s", "1 s", "2 s", "3.4 s", "4.4", "8.1 s", "9.2 s", "15.2 s", "15 s", "1.98 m", "2.40 m"],
+    "iso_weight": [159.98212, 160.97759, 161.97600, 162.97208, 163.97032, 164.96709, 165.96708, 166.96260, 167.96157, 168.95879, 169.95822, 130.95572, 171.95542, 172.95324, 173.95312]
+}

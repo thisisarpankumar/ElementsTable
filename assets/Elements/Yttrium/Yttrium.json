@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Yttrium",
+    "video": "https://www.youtube.com/watch?v=NxbOQ1FhqdQ&list=PL7A1F4CF36C085DE1&index=39",
+    "image": "Yttrium/yttrium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Y",
+    "latin_name": "Yttrium",
+    "english_name": "Yttrium",
+    "year_discovered": "1794",
+    "discovered_by": "Johan Gadolin",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 9
+        },
+        {
+            "O": 2
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 39,
+        },
+        {
+            "protons": 39,
+        },
+        {
+            "neutrons": 50
+        }
+    ],
+    "atomic_number": 39,
+    "atomic_weight": "88.905 (g/mol)",
+    "density": "4.47 (g/cm³)",
+    "melting_point": "1526 °C = 2778.80 °F = 1799.15 K",
+    "boiling_point": "3338 °C = 6040.40 °F = 3611.15 K",
+    "valence_electrons": 3,
+    "period": 5,
+    "group": "III B",
+    "block": "d-block",
+    "emission_spectrum": "Yttrium/Y.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "11.4 (kJ &middot K)",
+    "specific_heat": "298 J/(kg &middot; K)",
+    "thermal_expansion": "10.6 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "380 kJ &middot; mol",
+    "electron_configuration": "[Kr] 5s<sup>2</sup> 4d<sup>1</sup>",
+    "oxidation_state": "+1, +2, +3",
+    "ion_charge": "Y<sup>3+</sup>",
+    "ionization_potential": "6.5 eV",
+    "atomic_radius": "178 (pm)",
+    "covalent_radius": "162 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "1.8 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0002978",
+    "mass_susceptibility": "0.0000000666",
+    "molar_susceptibility": "5.921 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "5.6 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-271.85 °C = -457.33 °F = 1.3 K",
+    "lattice_structure": "Yttrium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "a=3.647 \u212B; c=5.731 \u212B",
+    "attitude": "1.571",
+    "debye_temperature": "6.85 °C = 44.33 °F = 280 K",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-65-5",
+    "CID_number": "CID23993",
+    "RTEC_number": "RTECSZG2980000",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "41.2 GPa",
+    "Young_modulus": "63.5 GPa",
+    "liquid_density": "4.24 (g/cm<sup>3</sup>)",
+    "molar_volume": "19.8 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.24 &micro;",
+    "shear_modulus": "26 GPa",
+    "sound_speed": "3300 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "17 W/mK",
+    "electronegative": "Pauling Scale 1.22",
+    "electron_affinity": "29.6 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "1.28 b",
+    "hazard_block": [
+        {
+            "red": "2"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Below 93.3 °C",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "7 &middot; 10<sup>-7</sup> %",
+    "sun_contains": "9.9 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "1.3 &middot; 10<sup>-9</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.0029 %",
+    "meteorites_contains": "0.00019 %",
+    "start_isotope_number": 78,
+    "stop_isotope_number": 89,
+    "half_life_number": ["5.8 s", "500 ns", "63 ms", "54 ms", "14.8 s", "30.1 s", "70.4", "8.30 s", "7.08 m", "4.6 s", "2.68 hours", "14.74 hours", "79.8 hours", "106.616 days", "Stable"],
+    "iso_weight": [NaN, 75.95845, 76.94965, 77.94361, 78.93735, 79.93428, 80.92913, 81.92679, 82.92235, 83.92039, 84.916433, 85.914886, 86.910875, 87.909501, 88.905848]
+}

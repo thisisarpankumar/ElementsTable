@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Meitnerium",
+    "video": "https://www.youtube.com/watch?v=N8VR7Qscq4k&list=PL7A1F4CF36C085DE1&index=109",
+    "image": "Meitnerium/meitnerium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Mt",
+    "latin_name": "Meitnerium",
+    "english_name": "Meitnerium",
+    "year_discovered": "1982",
+    "discovered_by": "GSI (Helmholtzzentrum für Schwerionenforschung)",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 32
+        },
+        {
+            "P": 15
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 109,
+        },
+        {
+            "protons": 109,
+        },
+        {
+            "neutrons": 169
+        }
+    ],
+    "atomic_number": 109,
+    "atomic_weight": "278 (g/mol)",
+    "density": "37.4 (g/cm³)",
+    "melting_point": "----",
+    "boiling_point": "----",
+    "valence_electrons": "----",
+    "period": 7,
+    "group": "VIII A",
+    "block": "d-block",
+    "emission_spectrum": "Meitnerium/Mt.gif",
+    "phase": "----",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup>5f<sup>14</sup>6d<sup>7</sup>",
+    "oxidation_state": "----",
+    "ion_charge": "----",
+    "ionization_potential": "----",
+    "atomic_radius": "---- (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Meitnerium/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "----",
+    "CAS_number": "CAS54038-01-6",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "---- (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale ----",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "30 m",
+    "life_time": "43.3",
+    "barn": "0 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 265,
+    "stop_isotope_number": 269,
+    "half_life_number": ["2 ms", "1.2 ms", "10 ms", "21 ms", "200 ms"],
+    "iso_weight": [265.13615, 266.13730, 267.13731, 268.13873, 369.13906]
+}

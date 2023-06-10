@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Neon",
+    "video": "https://www.youtube.com/watch?v=wzv0pb7mzaw&list=PL7A1F4CF36C085DE1&index=10",
+    "image": "Neon/neon.jpg",
+    "species": "NOBLE GASES",
+    "symbol": "Ne",
+    "latin_name": "Neon",
+    "english_name": "Neon",
+    "year_discovered": "1898",
+    "discovered_by": "Humphry Davy",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 0
+        },
+        {
+            "N": 0
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 10,
+        },
+        {
+            "protons": 10,
+        },
+        {
+            "neutrons": 10
+        }
+    ],
+    "atomic_number": 10,
+    "atomic_weight": "0.0009002 (g/mol)",
+    "density": "0.0009002 (g/cm³)",
+    "melting_point": "-248.67 °C = -415.61 °F = 24.48 K",
+    "boiling_point": "-246.05 °C = -410.89 °F = 27.10 K",
+    "valence_electrons": "0",
+    "period": 2,
+    "group": "VIII A",
+    "block": "p-block",
+    "emission_spectrum": "Neon/Ne.gif",
+    "phase": "Gas",
+    "phase_icon": "----",
+    "fusion_heat": "0.34 (kJ &middot K)",
+    "specific_heat": "1030 J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "1.75 kJ &middot; mol",
+    "electron_configuration": "[He] 2s<sup>2</sup> 2p<sup>6</sup>",
+    "oxidation_state": "----",
+    "ion_charge": "----",
+    "ionization_potential": "21.47 eV",
+    "atomic_radius": "38 (pm)",
+    "covalent_radius": "69 (pm)",
+    "van_der_waals_radius": "154 (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.00000000369",
+    "mass_susceptibility": "-0.000000041",
+    "molar_susceptibility": "-8.27 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Neon/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "a=4.430 \u212B",
+    "attitude": "----",
+    "debye_temperature": "-210.15 °C = -346.27 °F = 63 K",
+    "space_group_name": "Fm_3m",
+    "space_group_number": "225",
+    "CAS_number": "CAS7440-01-9",
+    "CID_number": "CID23935",
+    "RTEC_number": "RTECSQP4450000",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "654 GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "16.8 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "936 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "0.0491 W/mK",
+    "electronegative": "Pauling Scale ----",
+    "electron_affinity": "0 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "0.04 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "0.13 %",
+    "sun_contains": "0.1 %",
+    "oceans_contains": "1.2 &middot; 10<sup>-6</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "3 &middot; 10<sup>-7</sup> %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 16,
+    "stop_isotope_number": 34,
+    "half_life_number": ["9 zs", "109.2 ms", "1.672 s", "17.293 s", "-", "-", "-", "37.24 s", "3.38 m", "602 ms", "197 ms", "32 ms", "18.3 ms", "15.6 ms", "5.8 ms", "3.4 ms", "3.5 ms", "-", "1 ms"],
+    "iso_weight": [17.017672, 18.005708, 19.001880, 19.992440, 20.993846, 21.991385, 22.994466, 23.993610, 24.997737, 26.000461, 27.007590, 28.012070, 29.019390, 30.0248, 31.033110, 32.040020, 33.049380, 35.057030]
+}

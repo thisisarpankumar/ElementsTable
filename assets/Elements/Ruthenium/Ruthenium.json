@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Ruthenium",
+    "video": "https://www.youtube.com/watch?v=wl5ZYb0hDTc&list=PL7A1F4CF36C085DE1&index=44",
+    "image": "Ruthenium/ruthenium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Ru",
+    "latin_name": "Ruthenium",
+    "english_name": "Ruthenium",
+    "year_discovered": "1844",
+    "discovered_by": "Karl Ernst Claus",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 15
+        },
+        {
+            "O": 1
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 44,
+        },
+        {
+            "protons": 44,
+        },
+        {
+            "neutrons": 57
+        }
+    ],
+    "atomic_number": 44,
+    "atomic_weight": "101.07 (g/mol)",
+    "density": "12.41 (g/cm³)",
+    "melting_point": "2334 °C = 4233.20 °F = 2607.15 K",
+    "boiling_point": "4077 °C = 7370.60 °F = 4350.15 K",
+    "valence_electrons": 6,
+    "period": 5,
+    "group": "II A",
+    "block": "s-block",
+    "emission_spectrum": "Ruthenium/Ru.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "25.7 (kJ &middot K)",
+    "specific_heat": "238 J/(kg &middot; K)",
+    "thermal_expansion": "6.4 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "580 kJ &middot; mol",
+    "electron_configuration": "[Kr] 5s<sup>1</sup> 4d<sup>7</sup>",
+    "oxidation_state": "-4, -2, +1, +2, +3, +4, +5, +6, +7, +8",
+    "ion_charge": "Ru<sup>3+</sup>, Ru<sup>4+</sup>",
+    "ionization_potential": "7.5 eV",
+    "atomic_radius": "134 (pm)",
+    "covalent_radius": "126 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "1.4 &middot; 10<sup>7</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0000668",
+    "mass_susceptibility": "0.0000000054",
+    "molar_susceptibility": "5.48 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "7.1 &middot; 10<sup>-8</sup> m\u03A9",
+    "superconducting_point": "-272.66 °C = -458.79 °F = 0.49 K",
+    "lattice_structure": "Ruthenium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "a=2.706 \u212B; c=4.282 \u212B",
+    "attitude": "1.582",
+    "debye_temperature": "326.85 °C = 620.33 °F = 600 K",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-18-8",
+    "CID_number": "CID23950",
+    "RTEC_number": "----",
+    "brinell_hardness": "2160 MPa",
+    "mohs_hardness": "6.5",
+    "vickers_hardness": "----",
+    "bulk_modulus": "220 GPa",
+    "Young_modulus": "447 GPa",
+    "liquid_density": "10.65 (g/cm<sup>3</sup>)",
+    "molar_volume": "8.3 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.3 &micro;",
+    "shear_modulus": "173 GPa",
+    "sound_speed": "5970 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "120 W/mK",
+    "electronegative": "Pauling Scale 2.2",
+    "electron_affinity": "101.3 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "2.6 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "4 &middot; 10<sup>-7</sup> %",
+    "sun_contains": "5 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "7 &middot; 10<sup>-11</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "1 &middot; 10<sup>-7</sup> %",
+    "meteorites_contains": "0.000018 %",
+    "start_isotope_number": 87,
+    "stop_isotope_number": 91,
+    "half_life_number": ["50 MS", "1.3 S", "1.38 S", "11.7 s", "7.9 s"],
+    "iso_weight": [86.94918, 87.94026, 88.93611, 89.92989, 90.92629]
+}

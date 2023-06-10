@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Bromine",
+    "video": "https://www.youtube.com/watch?v=Slt3_5upuSs&list=PL7A1F4CF36C085DE1&index=35",
+    "image": "Bromine/bromine.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Ba",
+    "latin_name": "Bromum",
+    "english_name": "Bromine",
+    "year_discovered": "1826",
+    "discovered_by": "Antoine-Jérôme Balard, Karl Jakob Leuwich",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 7
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 35,
+        },
+        {
+            "protons": 35,
+        },
+        {
+            "neutrons": 45
+        }
+    ],
+    "atomic_number": 35,
+    "atomic_weight": "79.904 (g/mol)",
+    "density": "3.14 (g/cm³)",
+    "melting_point": "-7.25 °C = 18.95 °F = 265.90 K",
+    "boiling_point": "58.8 °C = 137.84 °F = 331.95 K",
+    "valence_electrons": "5",
+    "period": 4,
+    "group": "VII A",
+    "block": "p-block",
+    "emission_spectrum": "Bromine/Br.gif",
+    "phase": "Liquid",
+    "phase_icon": "----",
+    "fusion_heat": "5.8 (kJ &middot K)",
+    "specific_heat": "947.3 J/(kg &middot; K)",
+    "thermal_expansion": "----°C<sup>-1</sup>)",
+    "vaporization_heat": "14.8 kJ &middot; mol",
+    "electron_configuration": "[Ar] 3d<sup>10</sup>4s<sup>2</sup>4p<sup>5</sup>",
+    "oxidation_state": "-1, +1, +3, +4, +5, +7",
+    "ion_charge": "Br<sup>1-</sup>",
+    "ionization_potential": "11.8 ev",
+    "atomic_radius": "115 (pm)",
+    "covalent_radius": "114 (pm)",
+    "van_der_waals_radius": "185 (pm)",
+    "electrical_conductivity": "1 &middot; 10<sup>-10</sup>",
+    "electrical_type": "Dielectric", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.0000153",
+    "mass_susceptibility": "-0.0000000049",
+    "molar_susceptibility": "-7.83 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "1 &middot; 10<sup>10</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Bromine/Orthorhombic.svg.png",
+    "crystal_structure": "Orthorhombic",
+    "grid": "a=6.67 \u212B;; b=4.48 \u212B;; c=8.72 \u212B;",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "R_3m",
+    "space_group_number": "64",
+    "CAS_number": "CAS7726-95-6",
+    "CID_number": "CID24408",
+    "RTEC_number": "RTECSEF9100000",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "3.12 (g/cm<sup>3</sup>)",
+    "molar_volume": "23.5 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "319 m/s",
+    "refractive_index": "1.001132",
+    "thermal_conductivity": "0.12 W/mK",
+    "electronegative": "Pauling Scale 2.96",
+    "electron_affinity": "324.6 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "6.8 b",
+    "hazard_block": [
+        {
+            "red": "0"
+        },
+        {
+            "yellow": "0"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Will not burn",
+    "health_hazard":"Extreme danger",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "7 &middot; 10<sup>-7</sup> %",
+    "sun_contains": "0.0067 %",
+    "oceans_contains": "0.0066 %",
+    "human_body_contains": "0.00029 %",
+    "earth_crust_contains": "0.0003 %",
+    "meteorites_contains": "0.00012 %",
+    "start_isotope_number": 67,
+    "stop_isotope_number": 90,
+    "half_life_number": ["-", "1.2 &micro;", "24 ns", "79.1 ms", "21.4 s", "78.6 s", "3.4 m", "25.4 m", "96.7 m", "16.2 Hours", "57.036 Hours", "6.46 m", "stable", "17.68 m", "stable", "17.68 m", "stable", "17.68 m", "stable", "35.282", "2.40 Hours", "31.80 m", "2.90 m", "55.1 s", "55.65", "16.29 s", "4.40 s", "1.91 s"],
+    "iso_weight": [66.964, 67.95852, 68.95011, 69.94479, 70.93874, 71.93664, 72.93169, 73.92989, 74.925776, 75.924541, 76.924541, 77.921146, 78.918337, 79.918529, 80.916290, 81.916804, 82.915180, 83.916479, 84.915608, 85.918798, 86.920711, 87.92407, 88.92639, 89.93063]
+}

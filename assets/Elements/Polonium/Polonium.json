@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Polonium",
+    "video": "https://www.youtube.com/watch?v=bbr5yWwsI1o&list=PL7A1F4CF36C085DE1&index=84",
+    "image": "Polonium/polonium.jpg",
+    "species": "METALLOIDS",
+    "symbol": "Po",
+    "latin_name": "Polonium",
+    "english_name": "Polonium",
+    "year_discovered": "1898",
+    "discovered_by": "Pierre Curie, Marie Skłodowska Curie",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 18
+        },
+        {
+            "P": 6
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 84,
+        },
+        {
+            "protons": 84,
+        },
+        {
+            "neutrons": 125
+        }
+    ],
+    "atomic_number": 84,
+    "atomic_weight": "208.9824 (g/mol)",
+    "density": "9.2 (g/cm³)",
+    "melting_point": "254 °C = 489.20 °F = 527.15 K",
+    "boiling_point": "962 °C = 1763.60 °F = 1235.15 K",
+    "valence_electrons": 6,
+    "period": 6,
+    "group": "VI B",
+    "block": "p-block",
+    "emission_spectrum": "Polonium/Po.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "13 (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "23.5 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "100 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>2</sup> 4f<sup>14</sup> 5d<sup>10</sup> 6p<sup>4</sup>",
+    "oxidation_state": "-2, +2, +4, +5, +6",
+    "ion_charge": "Po<sup>2+</sup>, Po<sup>4+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "176 (pm)",
+    "covalent_radius": "146 (pm)",
+    "van_der_waals_radius": "197 (pm)",
+    "electrical_conductivity": "2.3 &middot; 10<sup>6</sup>",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "4.3 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Polonium/Lattic_simple_cubic.svg.png",
+    "crystal_structure": "Cubic",
+    "grid": "a=3.35 \u212B",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "221",
+    "CAS_number": "CAS7440-08-6",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "22.7 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale 2",
+    "electron_affinity": "183.3 KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "102 years",
+    "life_time": "148 years",
+    "barn": "0.5 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Below 93.3 °C",
+    "health_hazard":"Extreme danger",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "2 &middot; 10<sup>-6</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 188,
+    "stop_isotope_number": 227,
+    "half_life_number": ["430 &micro;s", "5 ms", "2.46 ms", "22 ms", "32.2 ms", "420 ms", "392 ms", "4.64 s", "5.56 s", "53.6 s", "1.77 m", "5.48 m", "11.5 m", "15.3 m", "44.7 m", "36.7 m", "3.53 hours", "1.66 hours", "8.8 days", "5.80 hour", "2.898 years", "125 years", "138 years", "516 ms", "299 ns", "3.65 ms", "164.3 ms", "1.781 s", "145 ms", "1.47 s", "3.10 m", "2 m", "40 s", "112 s", "550 s", ">300 ns", ">300 ns", ">300 ns", ">300 ns", ">300 ns"],
+    "iso_weight": [187.99942, 188.99848, 189.99510, 190.99457, 191.99133, 192.99103, 193.98818, 194.98811, 195.98553, 196.98566, 197.983389, 198.983666, 199.981799, 200.982260, 201.980758, 202.981420, 203.980318, 204.981203, 205.980481, 206.981593, 207.981245, 208.982430, 209.982873, 210.986653, 211.988868, 212.992857, 213.995201, 214.999420, 216.001915, 217.006335, 218.008973, 219.001374, 220.01660]
+}

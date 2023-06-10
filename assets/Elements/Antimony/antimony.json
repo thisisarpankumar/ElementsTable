@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Antimony",
+    "video": "https://www.youtube.com/watch?v=kcc6qNT3BoU&list=PL7A1F4CF36C085DE1&index=51",
+    "image": "Antimony/antimony.jpg",
+    "species": "actinoids",
+    "symbol": "Sb",
+    "latin_name": "Stibium",
+    "english_name": "Antimony",
+    "year_discovered": "<3000 BCE",
+    "discovered_by": "Basil Valentine",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 18
+        },
+        {
+            "O": 5
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 51,
+        },
+        {
+            "protons": 51,
+        },
+        {
+            "neutrons": 71
+        }
+    ],
+    "atomic_number": 51,
+    "atomic_weight": "121.760 (g/mol)",
+    "density": "6.69 (g/cm³)",
+    "melting_point": "630.75 °C = 1167.35 °F = 903.90 K",
+    "boiling_point": "1587 °C = 2888.60 °F = 1860.15 K",
+    "valence_electrons": "35",
+    "period": 5,
+    "group": "V A",
+    "block": "p-block",
+    "emission_spectrum": "Antimony/Sb.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "19.7 (kJ &middot K)",
+    "specific_heat": "207 J/(kg &middot; K)",
+    "thermal_expansion": "11 &middot; 10<sup>-6</sup>°C<sup>-1</sup>",
+    "vaporization_heat": "68 kJ &middot; mol",
+    "electron_configuration": "[Kr] 4d<sup>10</sup>5s<sup>2</sup>5p<sup>3</sup>",
+    "oxidation_state": "-3, -2, -1, +1, +2, +3, +4, +5",
+    "ion_charge": "Sb<sup>3+</sup>, Sb<sup>5+</sup>",
+    "ionization_potential": "8.35 ev",
+    "atomic_radius": "159 (pm)",
+    "covalent_radius": "138 (pm)",
+    "van_der_waals_radius": "206 (pm)",
+    "electrical_conductivity": "2.5 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.000073",
+    "mass_susceptibility": "-0.0000000109",
+    "molar_susceptibility": "-1.327 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "4 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Antimony/Rhombohedral.svg.png",
+    "crystal_structure": "Rhombohedral",
+    "grid": "a=4.307 \u212B; c=11.27 \u212B",
+    "attitude": "2.62",
+    "debye_temperature": "-73.15 °C = -99.67 °F = 200 K",
+    "space_group_name": "R_3m",
+    "space_group_number": "166",
+    "CAS_number": "CAS7440-36-0",
+    "CID_number": "CID5354495",
+    "RTEC_number": "RTECSCC4025000",
+    "brinell_hardness": "294 - 384 MPa",
+    "mohs_hardness": "3",
+    "vickers_hardness": "----",
+    "bulk_modulus": "42 GPa",
+    "Young_modulus": "55 GPa",
+    "liquid_density": "----",
+    "molar_volume": "18.4 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "20 GPa",
+    "sound_speed": "3420 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "24 W/mK",
+    "electronegative": "Pauling Scale 2.05",
+    "electron_affinity": "103.2 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "5.4 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard": "----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "4 &middot; 10<sup>-8</sup>",
+    "sun_contains": "1 &middot; 10<sup>-7</sup>",
+    "oceans_contains": "2 &middot; 10<sup>-8</sup>",
+    "human_body_contains": "----",
+    "earth_crust_contains": "0.00002 %",
+    "meteorites_contains": "0.000012 %",
+    "start_isotope_number": 103,
+    "stop_isotope_number": 106,
+    "half_life_number": ["100 ms", "470 ms", "1.12 s", "600 ms"],
+    "iso_weight": [102.93649, 103.93649, 104.93149, 105.92879]
+}

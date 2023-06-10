@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Seaborgium",
+    "video": "https://www.youtube.com/watch?v=UWq0djr790E&list=PL7A1F4CF36C085DE1&index=106",
+    "image": "Seaborgium/seaborgium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Sg",
+    "latin_name": "Seaborgium",
+    "english_name": "Seaborgium",
+    "year_discovered": "1974",
+    "discovered_by": "Georgiy Flerov",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 32
+        },
+        {
+            "P": 12
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 106,
+        },
+        {
+            "protons": 106,
+        },
+        {
+            "neutrons": 163
+        }
+    ],
+    "atomic_number": 106,
+    "atomic_weight": "263.1182 (g/mol)",
+    "density": "35 (g/cm³)",
+    "melting_point": "----",
+    "boiling_point": "----",
+    "valence_electrons": "----",
+    "period": 7,
+    "group": "VI B",
+    "block": "d-block",
+    "emission_spectrum": "Seaborgium/Sg.gif",
+    "phase": "----",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup> 5f<sup>14</sup> 6d<sup>4</sup>",
+    "oxidation_state": "+6",
+    "ion_charge": "Ba<sup>2+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "---- (pm)",
+    "covalent_radius": "--- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Seaborgium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "----",
+    "CAS_number": "CAS54038-81-2",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "---- (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale ----",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "2 hours",
+    "life_time": "2.7 hours",
+    "barn": "0 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 258,
+    "stop_isotope_number": 262,
+    "half_life_number": ["3.3 ms", "580 ms", "3.8 ms", "230 ms", "8 ms"],
+    "iso_weight": [258.11317, 259.11450, 260.11442, 261.11612, 262.1164]
+}

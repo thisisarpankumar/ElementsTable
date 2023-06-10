@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Tellurium",
+    "video": "https://www.youtube.com/watch?v=5ChFbVu4Mpk&list=PL7A1F4CF36C085DE1&index=52",
+    "image": "Tellurium/tellurium.jpg",
+    "species": "METALLOIDS",
+    "symbol": "Te",
+    "latin_name": "Tellurium",
+    "english_name": "Tellurium",
+    "year_discovered": "1783",
+    "discovered_by": "----",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 18
+        },
+        {
+            "O": 6
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 52,
+        },
+        {
+            "protons": 52,
+        },
+        {
+            "neutrons": 75
+        }
+    ],
+    "atomic_number": 52,
+    "atomic_weight": "127.60 (g/mol)",
+    "density": "6.25 (g/cm³)",
+    "melting_point": "449.55 °C = 841.19 °F = 722.70 K",
+    "boiling_point": "987.8 °C = 1810.04 °F = 1260.95 K",
+    "valence_electrons": 6,
+    "period": 5,
+    "group": "VI A",
+    "block": "p-block",
+    "emission_spectrum": "Tellurium/Tc.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "17.5 (kJ &middot K)",
+    "specific_heat": "201 J/(kg &middot; K)",
+    "thermal_expansion": "18 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "48 kJ &middot; mol",
+    "electron_configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>4</sup>",
+    "oxidation_state": "-2, -1, +1, +2, +3, +4, +5, +6",
+    "ion_charge": "Te<sup>2-</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "160 (pm)",
+    "covalent_radius": "135 (pm)",
+    "van_der_waals_radius": "206 (pm)",
+    "electrical_conductivity": "1 &middot; 10<sup>4</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.0000243",
+    "mass_susceptibility": "-0.0000000039",
+    "molar_susceptibility": "-4.98 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "1 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Tellurium/Double-Hexagonal-Close-Packed.png",
+    "crystal_structure": "Hexagonal",
+    "grid": "a=4.457 \u212B; c=5.929",
+    "attitude": "1.330",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "152",
+    "CAS_number": "CAS13494-80-9",
+    "CID_number": "CID6327182",
+    "RTEC_number": "RTECSWY2625000",
+    "brinell_hardness": "180-270 MPa",
+    "mohs_hardness": "2",
+    "vickers_hardness": "----",
+    "bulk_modulus": "65 GPa",
+    "Young_modulus": "43 GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "20.5 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "16 GPa",
+    "sound_speed": "2610 m/s",
+    "refractive_index": "1.000991",
+    "thermal_conductivity": "3 W/mK",
+    "electronegative": "Pauling Scale 2.1",
+    "electron_affinity": "190.2 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "5.4 b",
+    "hazard_block": [
+        {
+            "red": "0"
+        },
+        {
+            "yellow": "0"
+        },
+        {
+            "blue": "2"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Will not burn",
+    "health_hazard":"Hazardous",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "9 &middot; 10<sup>-7</sup> %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "1 &middot; 10<sup>-7</sup> %",
+    "meteorites_contains": "0.00021 %",
+    "start_isotope_number": 105,
+    "stop_isotope_number": 114,
+    "half_life_number": ["1 &micro;s", "70 &micro;s", "3.1 ms", "2.1 s", "4.6 s", "18.6 s", "19.3 s", "2 m", "1.7 m", "15.2 m"],
+    "iso_weight": [104.94364, 105.93750, 106.93501, 207.92944, 108.93742, 109.92241, 110.92111, 111.92170, 112.91589, 113.91209]
+}

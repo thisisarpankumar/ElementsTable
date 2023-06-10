@@ -1,0 +1,150 @@
+﻿a{
+    text-decoration: none;
+}
+.periodic-table{
+    font-family: "Poppins", sans-serif;
+    display: grid;
+    grid-template-columns: repeat(18, 4em);
+    grid-template-rows: repeat(9, 3.9em);
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    margin: 0 50%;
+    max-width: 1200px;
+    justify-content: center;
+    margin-bottom: 3em;
+}
+.periodic-element{
+    padding: 4px;
+    position: relative;
+    z-index: 1;
+    cursor: default;
+    transition: all 0.3s ease;
+}
+.periodic-element .periodic-element-inner{
+    background-color: #202e38;
+    padding: 10px 15px;
+    width: calc(100% - 30px);
+    height: calc(100% - 20px);
+    transition: inherit;
+}
+.title{
+    margin-left: -10px;
+    margin-right: -9px;
+    text-align: center;
+}
+.periodic-element .title{
+    font: 1.4em "Poppins", sans-serief;
+    transition: 0.5s ease 100ms;
+}
+.periodic-element .desc{
+    font: 0.5em "Poppins", sans-serief;
+    margin-top: -0.2em;
+}
+.desc{
+    padding: 0;
+    position: relative;
+    right: 12px;
+    text-align: center;
+    width: 185%;
+}
+.periodic-element:hover{
+    transform: scale(2);
+    z-index: 10;
+}
+.periodic-element:hover .periodic-element-inner{
+    background: transparent;
+}
+.periodic-element:hover .title, .periodic-element:hover .desc{
+    -webkit-text-fill-color: #222;
+    text-align: center;
+}
+.periodic-element:hover .title{
+    width: 180%;
+    right: 15px;
+}
+.periodic-element:hover .desc{
+    width: 255%;
+    right: 20px;
+}
+.periodic-element:hover::after{
+    top: 105%;
+    opacity: 1;
+}
+.periodic-element{
+    cursor: pointer;
+}
+.one{
+    background: linear-gradient(to bottom right, #f3f9a6 0%, #cbc634 100%);
+
+}
+.one .title, .one .desc{
+    background: -webkit-linear-gradient(#f3f9a6, #cbc643);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.two{
+    background: linear-gradient(to bottom right, #37cfdc 0%, #5a88e5 100%);
+}
+.two .title, .two .desc{
+    background: linear-gradient(#37cfdc, #5a88e5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.three{
+    background: linear-gradient(to bottom right, #58ac30 0%, #a7df62 100%);
+}
+.three .title, .three .desc{
+    background: linear-gradient(#58ac30, #a7df62);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.four{
+    background: linear-gradient(to bottom right, #fa7f72 0%, #ffc171 100%);
+}
+.four .title, .four .desc{
+    background: linear-gradient(#fa7f72, #ffc171);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.five{
+    background: linear-gradient(to bottom right, #d10dc7 0%, #f56dc1 100%);
+}
+.five .title, .five .desc{
+    background: linear-gradient(#d10dc7, #f56dc1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.empty-space-1{
+    grid-row: 1;
+    grid-column: 2/span 16;
+    
+}
+.empty-space-2{
+    grid-row: 2;
+    grid-column: 3/span 10;;
+    
+}
+.empty-space-3{
+    grid-row: 3;
+    grid-column: 3/span 10;
+    
+}
+.empty-space-4{
+    grid-row: 8;
+    grid-column: 1/span 18;  
+}
+.empty-space-5{
+    grid-row: 9;
+    grid-column: 1/span 2;
+    
+}
+.empty-space-6{
+    grid-row: 9;
+    grid-column: 17/span 2;
+    
+}
+.empty-space-7{
+    grid-row: 10;
+    grid-column: 1/span 2;
+    
+}

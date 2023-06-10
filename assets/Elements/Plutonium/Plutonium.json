@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Plutonium",
+    "video": "https://www.youtube.com/watch?v=89UNPdNtOoE&list=PL7A1F4CF36C085DE1&index=94",
+    "image": "Plutonium/plutonium.jpg",
+    "species": "ACTINOIDS",
+    "symbol": "Pu",
+    "latin_name": "Plutonium",
+    "english_name": "Plutonium",
+    "year_discovered": "1940",
+    "discovered_by": "Glenn Theodore Seaborg",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 24
+        },
+        {
+            "P": 8
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 94,
+        },
+        {
+            "protons": 94,
+        },
+        {
+            "neutrons": 150
+        }
+    ],
+    "atomic_number": 94,
+    "atomic_weight": "244.0642 (g/mol)",
+    "density": "19.74 (g/cm³)",
+    "melting_point": "641 °C = 1185.80 °F = 914.15 K",
+    "boiling_point": "3232 °C = 5849.60 °F = 3505.15 K",
+    "valence_electrons": 6,
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Plutonium/Po.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "325 kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup> 5f<sup>6</sup>",
+    "oxidation_state": "+2, +3, +4, +5, +6, +7",
+    "ion_charge": "Pu<sup>4+</sup>, Pu<sup>6+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "162 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "6.7 &middot; 10<sup>5</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0006222",
+    "mass_susceptibility": "0.0000000314",
+    "molar_susceptibility": "7.735 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.5 &middot; 10<sup>-6</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Plutonium/Monoclinic.svg.png",
+    "crystal_structure": "Monoclinic",
+    "grid": "a=6.183 \u212B; b=4.822 \u212B; c=10.963 \u212B; β=101.8°",
+    "attitude": "----",
+    "debye_temperature": "-111.15 °C = -168.07 °F = 162 K",
+    "space_group_name": "----",
+    "space_group_number": "11",
+    "CAS_number": "CAS7440-07-5",
+    "CID_number": "CID23940",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "96 GPa",
+    "liquid_density": "16.63 (g/cm<sup>3</sup>)",
+    "molar_volume": "12.2 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.21 &micro;",
+    "shear_modulus": "43 GPa",
+    "sound_speed": "2260 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "6 W/mK",
+    "electronegative": "Pauling Scale 1.28",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "4.3 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 228,
+    "stop_isotope_number": 247,
+    "half_life_number": ["1.1 s", "120 s", "1.70 m", "8.6 m", "33.7 m", "20.9 m", "8.8 m", "25.3 m", "2.858 years", "45.2 days", "87.7 years", "2.411 &middot; 10<sup>4</sup> years", "6.561 &middot; 10<sup>3</sup> years", "14.290 years", "3.75 &middot; 10<sup>5</sup> years", "4.956 years", "8 &middot; 10<sup>7</sup> years", "10.5 years", "10.84 days", "2.27 days"],
+    "iso_weight": [228.03874, 229.04015, 230.03965, 231.04110, 232.04118, 233.04300, 234.04331,  235.04528, 236.04605, 237.04840, 238.04955, 239.05216, 240.05381, 241.05685, 242.05874, 243.0620, 244.06420, 245.06774, 246.07020, 247.07407]
+}

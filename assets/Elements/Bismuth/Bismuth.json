@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Bismuth",
+    "video": "https://www.youtube.com/watch?v=vyIo-c7VmIM&list=PL7A1F4CF36C085DE1&index=83",
+    "image": "Bismuth/bismuth.jpg",
+    "species": "POST-TRANSITION METAL",
+    "symbol": "Bi",
+    "latin_name": "Bisemutum (Bismuthum, Bismutum)",
+    "english_name": "Bismuth",
+    "year_discovered": "1450",
+    "discovered_by": "Claude Francois Geoffrey",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 18
+        },
+        {
+            "P": 5
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 83,
+        },
+        {
+            "protons": 83,
+        },
+        {
+            "neutrons": 126
+        }
+    ],
+    "atomic_number": 83,
+    "atomic_weight": "208.9804 (g/mol)",
+    "density": "9.8 (g/cm³)",
+    "melting_point": "271.3 °C = 520.34 °F = 544.45 K",
+    "boiling_point": "1560 °C = 2840.00 °F = 1833.15 K",
+    "valence_electrons": "35",
+    "period": 6,
+    "group": "V A",
+    "block": "p-block",
+    "emission_spectrum": "Bismuth/Bi.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "10.9 (kJ &middot K)",
+    "specific_heat": "122 J/(kg &middot; K)",
+    "thermal_expansion": "13.4 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "160 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>3</sup>",
+    "oxidation_state": "-3, -2, -1, +1, +2, +3, +4, +5",
+    "ion_charge": "Bi<sup>3+</sup>Bi<sup>5+</sup>",
+    "ionization_potential": "7.25 ev",
+    "atomic_radius": "170 (pm)",
+    "covalent_radius": "146 (pm)",
+    "van_der_waals_radius": "207 (pm)",
+    "electrical_conductivity": "7.7 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.00017",
+    "mass_susceptibility": "-0.000000017",
+    "molar_susceptibility": "-3.4 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.3 &middot; 10<sup>-6</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Bismuth/Rhombohedral.svg.png",
+    "crystal_structure": "Rhombohedral",
+    "grid": "a=4.746 \u212B; α=57.23° ",
+    "attitude": "----",
+    "debye_temperature": "-153.15 °C = -243.67 °F = 120 K",
+    "space_group_name": "R_3m",
+    "space_group_number": "166",
+    "CAS_number": "CAS7440-69-9",
+    "CID_number": "CID5359367",
+    "RTEC_number": "RTECSEB2600000",
+    "brinell_hardness": "70-95 MPa",
+    "mohs_hardness": "2.5",
+    "vickers_hardness": "----",
+    "bulk_modulus": "31 GPa",
+    "Young_modulus": "32 GPa",
+    "liquid_density": "10.05 (g/cm<sup>3</sup>)",
+    "molar_volume": "21.3 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.33 &micro;",
+    "shear_modulus": "12 GPa",
+    "sound_speed": "1790 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "8 W/mK",
+    "electronegative": "Pauling Scale 2.02",
+    "electron_affinity": "91.2 KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "0.034 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "9.9 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "2 &middot; 10<sup>-9</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "2.5 &middot; 10<sup>-6</sup> %",
+    "meteorites_contains": "6.9 &middot; 10<sup>-6</sup> %",
+    "start_isotope_number": 184,
+    "stop_isotope_number": 224,
+    "half_life_number": ["6.6 ms", "2 ms", "14.8 ms", "32 ms", "44 ms", "674 ms", "12.3 s", "34.6", "67 s", "95 s", "183 s", "5.1 m", "9.33 m", "10.3 m", "27 m", "36.4", "108 m", "1.72 Hours", "11.76 Hours", "11.22 Hours", "15.31 day", "6.243 day", "32.9 years", "368000 years", "1.9 &middot; 10<sup>19</sup> years", "5.012 day", "2.14 m", "60.55 m", "45.59 m", "19.9 m", "7.6 m", "2.17 m", "98.5 s", "33 s", "300 ns", "300 ns", "300 ns", "300 ns", "300 ns", "300 ns"],
+    "iso_weight": [184.00112, 184.99976, 185.99660, 186.99315, 187.99227, 188.98920, 189.9883, 190.98578, 191.98546, 192.98296, 193.98283, 194.98065, 195.98066, 196.97886, 197.97921, 198.977672, 199.977009, 200.977009, 201.977742, 202.976876, 203.977813, 204.977389, 204.977389, 205.978499, 206.9784707, 207.9797422, 208.9803987, 209.9841204, 210.987269, 211.991285, 212.994385, 213.998712, 215.001770, 216.006306, 217.00947, 218.01432]
+}

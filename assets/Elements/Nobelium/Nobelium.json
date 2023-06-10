@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Nobelium",
+    "video": "https://www.youtube.com/watch?v=t_ZpauMxapY&list=PL7A1F4CF36C085DE1&index=102",
+    "image": "Nobelium/nobelium.jpg",
+    "species": "ACTINOIDS",
+    "symbol": "No",
+    "latin_name": "Nobelium",
+    "english_name": "Nobelium",
+    "year_discovered": "1965",
+    "discovered_by": "Glenn Theodore Seaborg",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 32
+        },
+        {
+            "P": 8
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 102,
+        },
+        {
+            "protons": 102,
+        },
+        {
+            "neutrons": 157
+        }
+    ],
+    "atomic_number": 102,
+    "atomic_weight": "259.1009 (g/mol)",
+    "density": "---- (g/cm³)",
+    "melting_point": "825 °C = 1517.00 °F = 1098.15 K",
+    "boiling_point": "----",
+    "valence_electrons": 3,
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Nobelium/No.gif",
+    "phase": "----",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup> 5f<sup>14</sup>",
+    "oxidation_state": "+2, +3",
+    "ion_charge": "No<sup>2+</sup>, No<sup>3+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "285 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Nobelium/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "----",
+    "CAS_number": "CAS10028-14-5",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "---- (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale 1.3",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "2.7 hours",
+    "life_time": "5.5555 hours",
+    "barn": "0 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 248,
+    "stop_isotope_number": 251,
+    "half_life_number": ["2 &micro;s", "57 &micro;s", "5.7 &micro;s", "780 ns"],
+    "iso_weight": [248.08660, 249.08783, 250.08751, 251.08901]
+}

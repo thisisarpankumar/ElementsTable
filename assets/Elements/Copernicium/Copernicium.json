@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Copernicium",
+    "video": "https://www.youtube.com/watch?v=QHcbQfcwegY&list=PL7A1F4CF36C085DE1&index=112",
+    "image": "Copernicium/Copernicium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Cn",
+    "latin_name": "Copernicium",
+    "english_name": "Copernicium",
+    "year_discovered": "1996",
+    "discovered_by": "GSI (Helmholtzzentrum für Schwerionenforschung)",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 32
+        },
+        {
+            "P": 18
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 112,
+        },
+        {
+            "protons": 112,
+        },
+        {
+            "neutrons": 173
+        }
+    ],
+    "atomic_number": 112,
+    "atomic_weight": "285.1744 (g/mol)",
+    "density": "20 (g/cm³)",
+    "melting_point": "----",
+    "boiling_point": "----",
+    "valence_electrons": "----",
+    "period": 7,
+    "group": "II A",
+    "block": "d-block",
+    "emission_spectrum": "----",
+    "phase": "----",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup>5f<sup>14</sup>6d<sup>10</sup>",
+    "oxidation_state": "+2",
+    "ion_charge": "----",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "---- (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Barium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "----",
+    "CAS_number": "CAS54084-26-3",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "----",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "--- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "---- (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale ----",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "40 m",
+    "life_time": "58 m",
+    "barn": "0 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 276,
+    "stop_isotope_number": 285,
+    "half_life_number": ["-", "1.1 ms", "-", "-", "1 s", "0.1 s", "0.8 ms", "4 s", "97 ms", "29 s"],
+    "iso_weight": [NaN, 227.16394, NaN, NaN, 280.16704, 281.16929, 282.16977, 283.17179, 284.17238, 258.17411]
+}

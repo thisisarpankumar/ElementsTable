@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Tantalum",
+    "video": "https://www.youtube.com/watch?v=51xFP1Yn3g0&list=PL7A1F4CF36C085DE1&index=73",
+    "image": "Tantalum/tantalum.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Ta",
+    "latin_name": "Tantalum",
+    "english_name": "Tantalum",
+    "year_discovered": "1802",
+    "discovered_by": "Anders Gustaf Ekeberg",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 11
+        },
+        {
+            "P": 2
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 73,
+        },
+        {
+            "protons": 73,
+        },
+        {
+            "neutrons": 108
+        }
+    ],
+    "atomic_number": 73,
+    "atomic_weight": "180.947 (g/mol)",
+    "density": "16.68 (g/cm³)",
+    "melting_point": "3017 °C = 5462.60 °F = 3290.15 K",
+    "boiling_point": "5458 °C = 9856.40 °F = 5731.15 K",
+    "valence_electrons": 5,
+    "period": 6,
+    "group": "V A",
+    "block": "d-block",
+    "emission_spectrum": "Tantalum/Ta.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "36 (kJ &middot K)",
+    "specific_heat": "140 J/(kg &middot; K)",
+    "thermal_expansion": "6.3 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "735 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>2</sup> 4f<sup>14</sup> 5d<sup>3</sup>",
+    "oxidation_state": "-3, -1, +1, +2, +3, +4, +5",
+    "ion_charge": "Ta<sup>5+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "149 (pm)",
+    "covalent_radius": "138 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "7.7 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0001782",
+    "mass_susceptibility": "0.0000000107",
+    "molar_susceptibility": "1.936 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.3 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-268.68 °C = -451.62 °F = 4.47 K",
+    "lattice_structure": "Tantalum/Tetragonal.png",
+    "crystal_structure": "Tetragonal",
+    "grid": "a=3.310 \u212B",
+    "attitude": "----",
+    "debye_temperature": "-48.15 °C = -54.67 °F = 225 K",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7440-25-7",
+    "CID_number": "CID23956",
+    "RTEC_number": "RTECSWW5505000",
+    "brinell_hardness": "440-3430 MPa",
+    "mohs_hardness": "6.5",
+    "vickers_hardness": "870-1200 MPa",
+    "bulk_modulus": "200 GPa",
+    "Young_modulus": "186 GPa",
+    "liquid_density": "15 (g/cm<sup>3</sup>)",
+    "molar_volume": "10.9 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.34 &micro;",
+    "shear_modulus": "69 GPa",
+    "sound_speed": "3400 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "57 W/mK",
+    "electronegative": "Pauling Scale 1.5",
+    "electron_affinity": "31 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "20.5 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "2 &middot; 10<sup>-11</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.00027 %",
+    "meteorites_contains": "2 &middot; 10<sup>-6</sup> %",
+    "start_isotope_number": 155,
+    "stop_isotope_number": 192,
+    "half_life_number": ["13 &micro;s", "144 ms", "10.1 ms", "49 ms", "1.04 s", "1.7 s", "3 s", "3.57 s", "10.6 s", "14.2 s", "31 s", "34.4 s", "1.33 m", "2 m", "4.9 m", "6.76 s", "23.3 m", "36.8 m", "3.14 hours", "1.14 hours", "10.5 hours", "8.09 hours", "56.56 hours", "9.31 m", "1.82 years", "8.1522 hours", "-", "114.43 days", "5.1 days", "8.7 ns", "49.4 hours", "1 m", "2 m", "20 s", "3 s", "300 ms", "300 ns", "2.2 s"],
+    "iso_weight": [154.97459, 155.97230, 156.96879, 157.96670, 158.96301, 159.96149, 160.95842, 161.95729, 162.95433, 163.95353, 164.95077, 165.95051, 166.94809, 167.94805, 168.94601, 169.94618, 170.94448, 171.94490, 172.94375, 173.94445, 174.94374, 175.94486, 176.94447, 177.94577, 178.94592, 179.94746, 180.94799, 181.95015, 182.95137, 183.9540, 184.9555, 185.95855, 186.96053, 187.96370, 188.96583, 189.96923]
+}

@@ -1,0 +1,137 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Actinium",
+    "video": "https://www.youtube.com/watch?v=rKm0ShaJNFM&list=PL7A1F4CF36C085DE1&index=89",
+    "image": "Actinium/actinium-225.jpg",
+    "species": "Actinoid",
+    "symbol": "Ac",
+    "latin_name": "Actinium",
+    "english_name": "Actinium",
+    "year_discovered": 1899,
+    "CAS_number": "CAS7440-34-8",
+    "discovered_by": "Andr\u00E9-Louis Debierne",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 18
+        },
+        {
+            "P": 9
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 89,
+        },
+        {
+            "protons": 89,
+        },
+        {
+            "neutrons": 138
+        }
+    ],
+    "atomic_number": 89,
+    "atomic_weight": "227.0278 (g/mol)",
+    "density": "10.07 (g/cm³)",
+    "melting_point": "1050 °C = 1922.00 °F = 1323.15 K",
+    "boiling_point": "3197 °C = 5786.60 °F = 3470.15 K",
+    "valence_electrons": 3,
+    "period": 7,
+    "group": "III B",
+    "block": "d-block",
+    "emission_spectrum": "Actinium/Ac.gif",
+    "phase": "Solid",
+    "phase_icon": "+3",
+    "fusion_heat": "14 KJ&middot;mol",
+    "specific_heat": "120 J/(kg.K)",
+    "thermal_expansion": "----",
+    "vaporization_heat": "400 kj&middot;mol",
+    "electron_configuration": "[Rn]6d<sup>1</sup> 7s<sup>2</sup>",
+    "oxidation_state": "+3",
+    "ion_charge": "Ac<sup>4+</sup>",
+    "ionization_potential": "----",
+    "atomic_radius": "188 (pm)",
+    "covalent_radius": "----",
+    "van_der_waals_radius": "----",
+    "electronegative": "Pauling scale: 1.1",
+    "valence_electron": 3,
+    "electron_affinity": "----",
+    "electrical_conductivity": "----",
+    "electrical_type": "----",
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "----",
+    "resistivity": "----",
+    "superconducting_point": "----",
+    "lattice_structure": "Actinium/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "Fm_3m",
+    "space_group_number": "225",
+    "CAS_number": "",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "----",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "----",
+    "Young_modulus": "----",
+    "liquid_density": "----",
+    "molar_volume": "22.54 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "----",
+    "sound_speed": "----",
+    "refractive_index": "----",
+    "thermal_conductivity": "12 W/mK",
+    "universe_contains": "----",
+    "sun_contains": "----",
+    "oceans_contains": "----",
+    "human_body_contains": "----",
+    "earth_crust_contains": "----",
+    "meteorites_contains": "----",
+    "radioactivity": "yes",
+    "half_life": "21.7 years",
+    "life_time": "31.5 years",
+    "barn": "810 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard": "----",
+    "reactivity": "----",
+    "specific": "----",
+    "start_isotope_number": 206,
+    "stop_isotope_number": 211,
+    "half_life_number": ["25 ms", "31 ms", "97 ms", "92 ms", "350 ms", "213 ms"],
+    "iso_weight": [206.01450, 207.011950, 208.011950, 209.009490, 210.009440, 211.007730]
+}

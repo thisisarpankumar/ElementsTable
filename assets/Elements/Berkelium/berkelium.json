@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Berkelium",
+    "video": "https://www.youtube.com/watch?v=imXT9QwRzks&list=PL7A1F4CF36C085DE1&index=97",
+    "image": "Berkelium/berkelium.jpg",
+    "species": "ACTINOIDS",
+    "symbol": "Bk",
+    "latin_name": "Berkelium",
+    "english_name": "Berkelium",
+    "year_discovered": "1949",
+    "discovered_by": "Glenn Theodore Seaborg",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 27
+        },
+        {
+            "P": 8
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 97,
+        },
+        {
+            "protons": 97,
+        },
+        {
+            "neutrons": 150
+        }
+    ],
+    "atomic_number": 97,
+    "atomic_weight": "247.0703 (g/mol)",
+    "density": "13.25 (g/cm³)",
+    "melting_point": "986 °C = 1806.80 °F = 1259.15 K",
+    "boiling_point": "2627 °C = 4760.60 °F = 2900.15 K",
+    "valence_electrons": "4",
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Berkelium/Bk.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "----°C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup>5f<sup>9</sup>",
+    "oxidation_state": "+3, +4",
+    "ion_charge": "Bk<sup>3+</sup>, Bk<sup>4+</sup>",
+    "ionization_potential": "----",
+    "atomic_radius": "297 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "----",
+    "resistivity": "----",
+    "superconducting_point": "----",
+    "lattice_structure": "Berkelium/Double-Hexagonal-Close-Packed.png",
+    "crystal_structure": "Double hexagonal close-packed",
+    "grid": "a=3.416 \u212B; c=11.07 \u212B; ",
+    "attitude": "3.24",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-40-6",
+    "CID_number": "CID23971",
+    "RTEC_number": "----",
+    "brinell_hardness": "----",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "----",
+    "Young_modulus": "----",
+    "liquid_density": "----",
+    "molar_volume": "----",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "----",
+    "refractive_index": "----",
+    "thermal_conductivity": "10 W/mK",
+    "electronegative": "Pauling Scale 1.3",
+    "electron_affinity": "----",
+    "radioactivity": "yes",
+    "half_life": "1378 years",
+    "life_time": "1990 years",
+    "barn": "710 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 235,
+    "stop_isotope_number": 242,
+    "half_life_number": ["20 ms", "1 m", "1 m", "2.40 m", "3 m", "4.8 m", "4.6 m", "7 m"],
+    "iso_weight": [235.05658, 236.05733, 237.05700, 238.05825, 239.05828, 240.05976, 241.06023, 242.06198]
+}

@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Gold",
+    "video": "https://www.youtube.com/watch?v=7dF0QTzcuac&list=PL7A1F4CF36C085DE1&index=79",
+    "image": "Gold/gold.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Au",
+    "latin_name": "Gold",
+    "english_name": "Gold",
+    "year_discovered": "5000 BC",
+    "discovered_by": "Ancient Indians",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 18
+        },
+        {
+            "P": 1
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 79,
+        },
+        {
+            "protons": 79,
+        },
+        {
+            "neutrons": 118
+        }
+    ],
+    "atomic_number": 79,
+    "atomic_weight": "196.966 (g/mol)",
+    "density": "19.3 (g/cm³)",
+    "melting_point": "1064.43 °C = 1947.97 °F = 1337.58 K",
+    "boiling_point": "2700 °C = 4892.00 °F = 2973.15 K",
+    "valence_electrons": "5",
+    "period": 6,
+    "group": "I B",
+    "block": "d-block",
+    "emission_spectrum": "Gold/Au.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "12.5 (kJ &middot K)",
+    "specific_heat": "129.1 J/(kg &middot; K)",
+    "thermal_expansion": "14.2 &middot; 10<sup>-6</sup> °C<sup>-1</sup>)",
+    "vaporization_heat": "330 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>1</sup>4f<sup>14</sup>5d<sup>10</sup>",
+    "oxidation_state": "-3, -2, -1, +1, +2",
+    "ion_charge": "Au<sup>+</sup>, Au<sup>3+</sup>",
+    "ionization_potential": "9.19 eV",
+    "atomic_radius": "144 (pm)",
+    "covalent_radius": "144 (pm)",
+    "van_der_waals_radius": "166 (pm)",
+    "electrical_conductivity": "4.5 &middot; 10<sup>7</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.000347",
+    "mass_susceptibility": "-0.0000000018",
+    "molar_susceptibility": "-3.51 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "2.2 &middot; 10<sup>-8</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Gold/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "a=4.0781 \u212B",
+    "attitude": "1",
+    "debye_temperature": "-103.15 °C = -153.67 °F = 170 K",
+    "space_group_name": "Fm_3m",
+    "space_group_number": "255",
+    "CAS_number": "CAS7440-57-5",
+    "CID_number": "CID23985",
+    "RTEC_number": "RTECSDM5070000",
+    "brinell_hardness": "188-245 MPa",
+    "mohs_hardness": "2.5",
+    "vickers_hardness": "188-216 MPa",
+    "bulk_modulus": "180 GPa",
+    "Young_modulus": "79 GPa",
+    "liquid_density": "17.31 (g/cm<sup>3</sup>)",
+    "molar_volume": "10.2 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.44 &micro;",
+    "shear_modulus": "27 GPa",
+    "sound_speed": "1740 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "320 W/mK",
+    "electronegative": "Pauling Scale 2.54",
+    "electron_affinity": "222.8 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "98.7 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "2"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Will not burn",
+    "health_hazard":"Hazardous",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "1 &middot; 10<sup>-7</sup> %",
+    "sun_contains": "5 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "0.00001 %",
+    "human_body_contains": "5 &middot; 10<sup>-6</sup> %",
+    "earth_crust_contains": "3.1 &middot; 10<sup>-6</sup> %",
+    "meteorites_contains": "0.000017 %",
+    "start_isotope_number": 169,
+    "stop_isotope_number": 174,
+    "half_life_number": ["150 &micro;s", "310 &micro;s", "30 &micro;s", "4.7 ms", "25 ms", "139 ms"],
+    "iso_weight": [168.99808, 169.99612, 170.99187, 171.99004, 172.9837, 174.98127]
+}

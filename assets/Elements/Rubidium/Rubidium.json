@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Rubidium",
+    "video": "https://www.youtube.com/watch?v=0XLGopBovoI&list=PL7A1F4CF36C085DE1&index=37",
+    "image": "Rubidium/rubidium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Rb",
+    "latin_name": "Rubidium",
+    "english_name": "Rubidium",
+    "year_discovered": "1861",
+    "discovered_by": "Robert Wilhelm Bunsen, Gustav Robert Kirchhoff",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 8
+        },
+        {
+            "O": 1
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 37,
+        },
+        {
+            "protons": 37,
+        },
+        {
+            "neutrons": 48
+        }
+    ],
+    "atomic_number": 37,
+    "atomic_weight": "85.467 (g/mol)",
+    "density": "1.53 (g/cm³)",
+    "melting_point": "39.32 °C = 102.78 °F = 312.47 K",
+    "boiling_point": "687.2 °C = 1268.96 °F = 960.35 K",
+    "valence_electrons": 1,
+    "period": 5,
+    "group": "I A",
+    "block": "s-block",
+    "emission_spectrum": "Rubidium/Rb.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "2.19 (kJ &middot K)",
+    "specific_heat": "264 J/(kg &middot; K)",
+    "thermal_expansion": "90 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "72 kJ &middot; mol",
+    "electron_configuration": "[Kr] 5s<sup>1</sup>",
+    "oxidation_state": "-1, +1",
+    "ion_charge": "Rb<sup>+</sup>",
+    "ionization_potential": "4.16 eV",
+    "atomic_radius": "248 (pm)",
+    "covalent_radius": "211 (pm)",
+    "van_der_waals_radius": "303 (pm)",
+    "electrical_conductivity": "8.3 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.00000398",
+    "mass_susceptibility": "0.0000000026",
+    "molar_susceptibility": "2.22 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.2 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Rubidium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "a=5.710 \u212B",
+    "attitude": "----",
+    "debye_temperature": "-217.15 °C = -358.87 °F = 56 K",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7440-17-7",
+    "CID_number": "CID5357696",
+    "RTEC_number": "RTECSVL8500000",
+    "brinell_hardness": "0.216 MPa",
+    "mohs_hardness": "0.3",
+    "vickers_hardness": "----",
+    "bulk_modulus": "2.5 GPa",
+    "Young_modulus": "2.4 GPa",
+    "liquid_density": "1.46 (g/cm<sup>3</sup>)",
+    "molar_volume": "55.9 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "1300 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "58 W/mK",
+    "electronegative": "Pauling Scale 0.82",
+    "electron_affinity": "46.9 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "0.38 b",
+    "hazard_block": [
+        {
+            "red": "3"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "2"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Below 37.7 °C",
+    "health_hazard":"Hazardous",
+    "reactivity": "----",
+    "specific": "Use no water",
+    "universe_contains": "1 &middot; 10<sup>-6</sup> %",
+    "sun_contains": "3 &middot; 10<sup>-6</sup> %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "0.00046 %",
+    "earth_crust_contains": "0.006 %",
+    "meteorites_contains": "0.00032 %",
+    "start_isotope_number": 71,
+    "stop_isotope_number": 102,
+    "half_life_number": ["1.5 &micro;s", "1 &micro;s", "64.76 s", "19 s", "36.5 s", "3.77 m", "17.66 m", "22.9 m", "33.4 s", "4.5 hours", "1.2 m", "86.2 days", "33.1 days", "Stable", "18.6 days", "4.9 years", "17.773 m", "15.15 m", "158 s", "58.4 s", "4.49 s", "5.84 s", "2.702 s", "377.5 ms", "202.8 ms", "169.9 ms", "114 ms", "50.3 ms", "51 ms", "32 ms", "37 ns"],
+    "iso_weight": [70.96532, 71.95908, 92.95056, 73.94426, 74.93857, 75.935072, 76.930408, 77.928141, 78.923989, 79.922519, 80.918996, 81.938208, 82.915110, 83.914385, 84.911789738, 85.91116742, 86.909180527, 87.91131559, 88.912278, 89.914802, 90.916537, 91.919729, 92.922042, 93.926405, 94.929303, 95.93427, 96.93735, 97.94179, 98.94538, 99.94987, 100.95320, 101.95887]
+}

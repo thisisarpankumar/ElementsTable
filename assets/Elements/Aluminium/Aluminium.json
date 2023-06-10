@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Aluminium",
+    "video": "https://www.youtube.com/watch?v=4AhZ8503WPs&list=PL7A1F4CF36C085DE1&index=13",
+    "image": "Aluminium/aluminium.jpg",
+    "species": "post-transition metal",
+    "symbol": "Al",
+    "latin_name": "Aluminium",
+    "english_name": "Aluminium",
+    "year_discovered": 1825,
+    "discovered_by": "Hans Christian \u00D8rsted",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 3
+        },
+        {
+            "N": 0
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 13,
+        },
+        {
+            "protons": 13,
+        },
+        {
+            "neutrons": 14
+        }
+    ],
+    "atomic_number": 13,
+    "atomic_weight": "26.9815 (g/mol)",
+    "density": "2.6989 (g/cm³)",
+    "melting_point": "660 °C = 1220.00 °F = 933.15 K",
+    "boiling_point": "2518.82 °C = 4565.88 °F = 2791.97 K",
+    "valence_electrons": 3,
+    "period": 3,
+    "group": "III B",
+    "block": "p-block",
+    "emission_spectrum": "Aluminium/Al.gif",
+    "phase": "Solid",
+    "phase_icon": "",
+    "fusion_heat": "10.7 KJ&middot;mol",
+    "specific_heat": "904 J/(kg.K)",
+    "thermal_expansion": "23.1 &middot; 10<sup>-6</sup> \u00BAC<sup>-1</sup> ",
+    "vaporization_heat": "293 kj&middot;mol",
+    "electron_configuration": "[Rn]6d<sup>1</sup> 7s<sup>2</sup>",
+    "oxidation_state": "-1, -2, +1, +2, +3",
+    "ion_charge": "Al<sup>3+</sup>",
+    "ionization_potential": "5.95 ev",
+    "atomic_radius": "143 (pm)",
+    "covalent_radius": "118 (pm)",
+    "van_der_waals_radius": "184 (pm)",
+    "electrical_conductivity": "3.8 &middot; 10 <sup>7</sup> S/m",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0000211",
+    "mass_susceptibility": "0.0000000078",
+    "molar_susceptibility": "2.1 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "2.6 &middot; 10<sup>-8</sup> m\u03A9",
+    "superconducting_point": "-271.97 °C = -457.55 °F = 1.18 K",
+    "lattice_structure": "Aluminium/Cubic-face-centered.svg.png",
+    "crystal_structure": "Face-centered cubic",
+    "grid": "4.050 \u212B",
+    "attitude": "----",
+    "debye_temperature": "120.85 °C = 249.53 °F = 394 K",
+    "space_group_name": "Fm_3m",
+    "space_group_number": "225",
+    "CAS_number": "CAS7429-90-5",
+    "CID_number": "CID5359268",
+    "RTEC_number": "RTECSBD0330000",
+    "brinell_hardness": "160-550 MPa",
+    "mohs_hardness": "3",
+    "vickers_hardness": "160-350 MPa",
+    "bulk_modulus": "76 GPa",
+    "Young_modulus": "70 GPa",
+    "liquid_density": "2.375 (g/cm<sup>3</sup>)",
+    "molar_volume": "10 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.35 \u03BC",
+    "shear_modulus": "26 GPa",
+    "sound_speed": "5100 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "235 W/mK",
+    "electronegative": "Pauling Scale 1.61",
+    "electron_affinity": "42.5 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "0.233 b",
+    "hazard_block": [
+        {
+            "red": "1"
+        },
+        {
+            "yellow": "1"
+        },
+        {
+            "blue": "0"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Above 93.3 \u00b0C",
+    "health_hazard": "----",
+    "reactivity": "Normal material",
+    "specific": "Unstable if heated",
+    "universe_contains": "0.005%",
+    "sun_contains": "0.006%",
+    "oceans_contains": "5 &middot; 10<sup>-7</sup>%  ",
+    "human_body_contains": "0.0009%",
+    "earth_crust_contains": "8.1%",
+    "meteorites_contains": "0.9%",
+    "start_isotope_number": 206,
+    "stop_isotope_number": 211,
+    "half_life_number": ["25", "31", "97", "92", "350", "213"],
+    "iso_weight": [206.01450, 207.011950, 208.011950, 209.009490, 210.009440, 211.007730]
+}

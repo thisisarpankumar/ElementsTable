@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Europium",
+    "video": "https://www.youtube.com/watch?v=88YOmg_FUVo&list=PL7A1F4CF36C085DE1&index=63",
+    "image": "Europium/europium.jpg",
+    "species": "LANTHANOIDS",
+    "symbol": "Eu",
+    "latin_name": "Europium",
+    "english_name": "Europium",
+    "year_discovered": "1901",
+    "discovered_by": "Eugène-Anatole Demarçay",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 25
+        },
+        {
+            "O": 8
+        },
+        {
+            "P": 2
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 63,
+        },
+        {
+            "protons": 63,
+        },
+        {
+            "neutrons": 89
+        }
+    ],
+    "atomic_number": 63,
+    "atomic_weight": "151.964 (g/mol)",
+    "density": "5.25 (g/cm³)",
+    "melting_point": "822 °C = 1511.60 °F = 1095.15 K",
+    "boiling_point": "1597 °C = 2906.60 °F = 1870.15 K",
+    "valence_electrons": "3",
+    "period": 6,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Europium/Eu.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "9.2 (kJ &middot K)",
+    "specific_heat": "182 J/(kg &middot; K)",
+    "thermal_expansion": "35 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "175 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>2</sup>4f<sup>7</sup>",
+    "oxidation_state": "+2, +3",
+    "ion_charge": "Eu<sup>2+</sup>, Eu<sup>3+</sup>",
+    "ionization_potential": "---- ev",
+    "atomic_radius": "199 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "1.1 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0014473",
+    "mass_susceptibility": "0.000000276",
+    "molar_susceptibility": "4.1942 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "9 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Europium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "a=4.581 \u212B",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7440-38-2",
+    "CID_number": "CID23981",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "165-200 MPa",
+    "bulk_modulus": "8.3 GPa",
+    "Young_modulus": "18.2 GPa",
+    "liquid_density": "5.13 (g/cm<sup>3</sup>)",
+    "molar_volume": "28.9 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.15 &micro;",
+    "shear_modulus": "7.9 GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "14 W/mK",
+    "electronegative": "Pauling Scale ----",
+    "electron_affinity": "50 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "4450 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "---- °C",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "5 &middot; 10<sup>-8</sup> %",
+    "oceans_contains": "1.3 &middot; 10<sup>-11</sup> %",
+    "human_body_contains": "---- &middot; 10<sup>-6</sup> %",
+    "earth_crust_contains": "0.00018 %",
+    "meteorites_contains": "5.9 &middot; 10<sup>-6</sup> %",
+    "start_isotope_number": 60,
+    "stop_isotope_number": 66,
+    "half_life_number": ["1.1 ms", "17.8 ms", "100 ms", "200 ms", "500 ms", "1.5 s", "3.3 s"],
+    "iso_weight": [129.96354, 130.95775, 131.95437, 132.94651, 133.94651, 134.94182, 135.93960]
+}

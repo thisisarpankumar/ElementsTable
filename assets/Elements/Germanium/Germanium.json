@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Germanium",
+    "video": "https://www.youtube.com/watch?v=osrKWVknkgs&list=PL7A1F4CF36C085DE1&index=32",
+    "image": "Germanium/germanium.jpg",
+    "species": "METALLOIDS",
+    "symbol": "Ge",
+    "latin_name": "Germanium",
+    "english_name": "Germanium",
+    "year_discovered": "1886",
+    "discovered_by": "Clemens Alexander Winkler",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 4
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 32,
+        },
+        {
+            "protons": 32,
+        },
+        {
+            "neutrons": 41
+        }
+    ],
+    "atomic_number": 32,
+    "atomic_weight": "72.64 (g/mol)",
+    "density": "5.323 (g/cm³)",
+    "melting_point": "937.5 °C = 1719.50 °F = 1210.65 K",
+    "boiling_point": "2833 °C = 5131.40 °F = 3106.15 K",
+    "valence_electrons": "4",
+    "period": 4,
+    "group": "IV A",
+    "block": "p-block",
+    "emission_spectrum": "Germanium/Ge.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "31.8 (kJ &middot K)",
+    "specific_heat": "321.4 J/(kg &middot; K)",
+    "thermal_expansion": "6 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "334 kJ &middot; mol",
+    "electron_configuration": "[Ar] 3d<sup>10</sup>4s<sup>2</sup>4p<sup>2</sup>",
+    "oxidation_state": "-4, -3, -2, -1, +1, +2, +3, +4",
+    "ion_charge": "Ga<sup>4+</sup>",
+    "ionization_potential": "7.85 eV",
+    "atomic_radius": "222 (pm)",
+    "covalent_radius": "122 (pm)",
+    "van_der_waals_radius": "211 (pm)",
+    "electrical_conductivity": "2 &middot; 10<sup>3</sup>",
+    "electrical_type": "Semiconductor", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-0.00000798",
+    "mass_susceptibility": "-0.0000000015",
+    "molar_susceptibility": "-1.09 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "0.0005 m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Germanium/Diamond_cubic_crystal_structure.svg.png",
+    "crystal_structure": "Face-centered diamond-cubic",
+    "grid": "a=5.660 \u212B",
+    "attitude": "----",
+    "debye_temperature": "86.85 °C = 188.33 °F = 360 K",
+    "space_group_name": "Fm_3m",
+    "space_group_number": "225",
+    "CAS_number": "CAS7440-56-4",
+    "CID_number": "CID6326954",
+    "RTEC_number": "RTECSLY5200000",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "6",
+    "vickers_hardness": "----",
+    "bulk_modulus": "75 GPa",
+    "Young_modulus": "103 GPa",
+    "liquid_density": "5.6 (g/cm<sup>3</sup>)",
+    "molar_volume": "13.6 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "5400 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "60 W/mK",
+    "electronegative": "Pauling Scale 2.01",
+    "electron_affinity": "119 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "2.2 b",
+    "hazard_block": [
+        {
+            "red": "0"
+        },
+        {
+            "yellow": "0"
+        },
+        {
+            "blue": "1"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Will not burn",
+    "health_hazard":"Slightly hazardous",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "0.00002 %",
+    "sun_contains": "0.00002 %",
+    "oceans_contains": "6 &middot; 10<sup>-9</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.00014 %",
+    "meteorites_contains": "0.0021 %",
+    "start_isotope_number": 58,
+    "stop_isotope_number": 67,
+    "half_life_number": ["--", "--", "30 ms", "39 ms", "129 ms", "142 ms", "63.7 s", "30.9 s", "2.26 hours", "18.9 m"],
+    "iso_weight": [57.991, 58.981, 59.970, 60.963739, 61.95465, 62.94964, 63.94165, 64.93944, 65.93384, 66.93273]
+}

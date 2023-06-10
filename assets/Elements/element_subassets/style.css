@@ -1,0 +1,260 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400);
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.82);
+    color: #fff;
+    font-family: 'Raleway', Arial, sans-serif;
+    cursor: context-menu;
+}
+#preloader{
+	background:rgb(25, 31, 38) url(loading.gif) no-repeat center center;
+	background-size:35%;
+	height:100%;
+	width:100%;
+	position:fixed;
+	z-index:100;
+}
+.disable{
+    color: #888;
+}
+#element-species{
+    width: 9em;  
+    color: #000;
+    height: 2.3em;
+    text-align: center;
+    font-size: 18px;
+    position: relative;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    top: 20em;
+    text-transform: uppercase;
+    display: table-cell;
+    vertical-align: middle;
+    font-weight: bolder;
+}
+.element-species-one{
+    background: linear-gradient(to bottom right, #f3f9a6 0%, #cbc634 100%);
+}
+.element-species-two{
+    background: linear-gradient(to bottom right, #37cfdc 0%, #5a88e5 100%);
+}
+.element-species-three{
+    background: linear-gradient(to bottom right, #58ac30 0%, #a7df62 100%);
+}
+.element-species-four{
+    background: linear-gradient(to bottom right, #fa7f72 0%, #ffc171 100%);
+}
+.element-species-five{
+    background: linear-gradient(to bottom right, #d10dc7 0%, #f56dc1 100%);
+}
+#element-id, .element-id{
+    overflow: hidden;
+    width: 100%;
+    height: 35em;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 100;
+    transition: 0.4s;
+    /*border-bottom: 4px solid brown;*/
+}
+.element-id-onScroll{
+    display: inline-block;
+    height: 10px;
+    width: 100%;
+    background-color: #000;
+    z-index: 100;
+    transition: 0.4s;
+}
+#element-name{
+    font-size: 4.5em;
+    position: relative;
+    top: 5.54em;
+    width: 1.2em;
+    left: 0.8em;
+    text-align: center;
+}
+#element-title, #element-atm{
+    font-size: 1.5em;
+    width: 10em;
+    position: relative;
+    left: 6.8em;
+    top: 13.6em;
+}
+a{
+    text-decoration: none;
+}
+.overview, .property, .thermodynamic-property, .atomic-property, .electromagnetic-property, .grid-parameter, .additional-information, 
+.reactivity, .nuclear-property, .pervalence, .isotopes{
+    font-size: 1.2em;
+    padding: 10px;
+    background-color: #666;
+    border-bottom: 1px solid rgb(181, 181, 181);;
+    border-top: 1px solid rgb(181, 181, 181);
+    color: #fff;
+    margin: 30px 0 30px 0;
+}
+.overview{
+    margin-top: 0;
+}
+.overview-content{
+    border-bottom: 1px solid #555;
+}
+.latin-name, .english-name, .year, .atomic-number, .atomic-weight, .density, .boiling-point, .valence, .period, .group, .block,
+.phase, .fusion-heat, .specific-heat, .melting-point, .electronic-configuration, .oxidation-states, .ion-charge,
+.ionization-potential, .atomic-radius, .covalent-radius, .electrical-conductivity, .electrical-type, .magnetic-type,
+.volume-susceptibility, .mass-susceptibility, .molar-susceptibility, .resistivity, .crystal-structure, .grid, .attitude, .debye-temperature, 
+.space-group-name, .color, .CAS-number, .CID-number, .RTEC-number, .brinell-hardness, .vickers-hardness, .bulk-modulus, .Young-modulus, 
+.liquid-density, .molar-volume, .poisson-ratio, .shear-modulus, .thermal-expansion, .sound-speed, .electronegative,
+.radioactivity, .half-life, .life-time, .barn, .fire-hazard, .health-hazard, .reactivity-hazard, .specific-hazard,
+.universe, .sun, .mohs-hardness, .oceans, .human, .earth, .refractive-index{
+    font-size: 17px;
+    padding: 0.8em;
+    padding-left: 0;
+    margin-bottom: 0.8em;
+    width: 75%;
+    margin-left: 3em;
+    border-bottom: 1px solid #555;
+}
+.name{
+    font-size: 17px;
+    padding: 0.8em;
+    padding-left: 0;
+    margin-bottom: 0.8em;
+    width: 75%;
+    margin-left: 3em;
+}
+.emission-spectrum, .van-radius, .vaporization-heat, .superconducting-point, .space-group-number, .thermal-conductivity, 
+.electron-affinity, .meteorites{
+    font-size: 17px;
+    padding: 0.8em;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 0.8em;
+    width: 75%;
+    margin-left: 3em;
+}
+#emission-spectrum-image{
+    height: 7em;
+    width: 101%;
+    margin-top: 15px;
+}
+.electron-shell-content{
+    font-size: 17px;
+    padding: 2.5em;
+    margin-bottom: 0.8em;
+    border-bottom: 1px solid #555;
+    border-top: 1px solid #555; 
+}
+.element-symbol{
+    font-size: 17px;
+    padding: 0.8em;
+    padding-left: 3em;
+    margin-bottom: 0.8em;
+    width: 95%;
+    margin-left: 0em;
+    border-bottom: 1px solid #555;
+}
+.e-icon, #e-isotope{
+    display: inline-block;
+} 
+.e-icon{
+    padding: 1em;
+    width: 1em;
+    height: 1em;
+    font-size: 1em;
+    border-radius: 100%;
+    text-align: center;
+    margin-left: 0em;
+    position: relative;
+    bottom: 1.1em;
+    color: #000;
+    transition: ease 0.3s;
+}
+.e-icon:hover{
+    transform: scale(1.2);
+}
+.e-icon-color-1{
+    background: linear-gradient(to bottom right, #f3f9a6 0%, #cbc643 100%);
+}
+.e-icon-color-2{
+    background: linear-gradient(to bottom right, #37cfdc 0%, #5a88e5 100%);
+}
+.e-icon-color-3{
+    background: linear-gradient(to bottom right, #58ac30 0%, #a7df62 100%);
+}
+.e-icon-color-4{
+    background: linear-gradient(to bottom right, #fa7f72 0%, #ffc171 100%);
+}
+.e-icon-color-5{
+    background: linear-gradient(to bottom right, #d10dc7 0%, #f56dc1 100%);
+}
+
+#e-isotope{
+    margin-left: 3em;
+    float: center;
+}
+.sub-atomic-particle{
+    width: fit-content;
+    border: 1px solid #555;
+    margin-bottom: 0.5em;
+    padding: 2em;
+    font-size: 1.5em;
+    margin-left: 35%;
+    background-color: #353535;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+#e, #p, #n{
+    padding: 1em;
+    width: fit-content;
+    display: inline-block;
+    text-align: center;
+}
+#no_e, #no_p, #no_n{
+    font-size: 1.5em; 
+}
+#lattice{
+    height: 15em;
+    float: right;
+    padding: 1em;
+    padding-right: 6em;
+    background-color: rgb(46, 46, 46);
+}
+.hazard-block{
+    display: grid;
+    grid-template-columns: auto auto;
+    float: right;
+    position: relative;
+    bottom: 14.1em;
+    right: 5em;
+    transform: rotateZ(45deg);
+}
+.red, .yellow, .white, .blue{
+    padding: 1em;
+    width: 20px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;   
+}
+.red{
+    background-color: red;
+}
+.white{
+    background-color: white;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: cyan;
+}
+#red, #yellow, #white, #blue{
+    margin: 0;
+    transform: rotateZ(-45deg);
+}
+
+
+

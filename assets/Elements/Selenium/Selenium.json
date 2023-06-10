@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Selenium",
+    "video": "https://www.youtube.com/watch?v=IHrUtKjcAFE&list=PL7A1F4CF36C085DE1&index=34",
+    "image": "Selenium/selenium.jpg",
+    "species": "OTHER NONMETALS",
+    "symbol": "Se",
+    "latin_name": "Selenium",
+    "english_name": "Selenium",
+    "year_discovered": "1817",
+    "discovered_by": "Jöns Jakob Berzelius",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 6
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 34,
+        },
+        {
+            "protons": 34,
+        },
+        {
+            "neutrons": 45
+        }
+    ],
+    "atomic_number": 34,
+    "atomic_weight": "78.96 (g/mol)",
+    "density": "4.79 (g/cm³)",
+    "melting_point": "217 °C = 422.60 °F = 490.15 K",
+    "boiling_point": "684.8 °C = 1264.64 °F = 957.95 K",
+    "valence_electrons": 6,
+    "period": 4,
+    "group": "VI A",
+    "block": "p-block",
+    "emission_spectrum": "Selenium/Se.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "5.4 (kJ &middot K)",
+    "specific_heat": "321.2 J/(kg &middot; K)",
+    "thermal_expansion": "37 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "26 kJ &middot; mol",
+    "electron_configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>4</sup>",
+    "oxidation_state": "-2, -1, +1, +2, +3, +4, +5, +6",
+    "ion_charge": "Se<sup>2-</sup>",
+    "ionization_potential": "9.5 eV",
+    "atomic_radius": "140 (pm)",
+    "covalent_radius": "116 (pm)",
+    "van_der_waals_radius": "190 (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "-0.000000004",
+    "molar_susceptibility": "-3.16 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Selenium/Double-Hexagonal-Close-Packed.png",
+    "crystal_structure": "Double Hexagonal",
+    "grid": "a=4.364 \u212B; c=4.959 \u212B",
+    "attitude": "1.136",
+    "debye_temperature": "-183.15 °C = -297.67 °F = 90 K",
+    "space_group_name": "----",
+    "space_group_number": "14",
+    "CAS_number": "CAS7782-49-2",
+    "CID_number": "CID6326970",
+    "RTEC_number": "RTECSVS7700000",
+    "brinell_hardness": "736 MPa",
+    "mohs_hardness": "2",
+    "vickers_hardness": "----",
+    "bulk_modulus": "8.3 GPa",
+    "Young_modulus": "10 GPa",
+    "liquid_density": "3.99 (g/cm<sup>3</sup>)",
+    "molar_volume": "16.5 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.33 &micro;",
+    "shear_modulus": "3.7 GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "1.000895",
+    "thermal_conductivity": "0.52 W/mK",
+    "electronegative": "Pauling Scale 2.55",
+    "electron_affinity": "195 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "11.7 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Will not burn",
+    "health_hazard":"Hazardous",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "3 &middot; 10<sup>-6</sup> %",
+    "sun_contains": "4.5 &middot; 10<sup>-8</sup> %",
+    "oceans_contains": "5 &middot; 10<sup>-6</sup> %",
+    "human_body_contains": "5 &middot; 10<sup>-6</sup> %",
+    "earth_crust_contains": "5 &middot; 10<sup>-6</sup> %",
+    "meteorites_contains": "0.0013 %",
+    "start_isotope_number": 65,
+    "stop_isotope_number": 85,
+    "half_life_number": ["50 ms", "33 ms", "133 ms", "35.5 s", "27.4 s", "41.1 m", "4.74 m", "8.40 days", "7.15 hours", "Stable", "119779 days", "Stable", "Stable", "Stable", "295000 years", "Stable", "18.45 m", "9.7 &middot; 10<sup>19</sup> years", "22.3 m", "3.1 m", "31.7 s"],
+    "iso_weight": [64.96466, 65.95521, 66.95009, 67.941, 68.939, 69.93339, 70.93224, 71.92711, 72.92676, 73.92247, 74.92252, 75.91921, 76.91991, 77.91730, 78.91849, 79.91652, 80.91799, 81.91669, 82.91911, 83.91846, 84.92225]
+}

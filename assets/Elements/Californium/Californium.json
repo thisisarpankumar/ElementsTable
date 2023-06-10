@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Californium",
+    "video": "https://www.youtube.com/watch?v=E0wtKOG8trE&list=PL7A1F4CF36C085DE1&index=98",
+    "image": "Californium/californium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Cf",
+    "latin_name": "Californium",
+    "english_name": "Californium",
+    "year_discovered": "1950",
+    "discovered_by": "Glenn Theodore Seaborg",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 28
+        },
+        {
+            "P": 8
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 98,
+        },
+        {
+            "protons": 98,
+        },
+        {
+            "neutrons": 153
+        }
+    ],
+    "atomic_number": 98,
+    "atomic_weight": "251.0796 (g/mol)",
+    "density": "15.1 (g/cm³)",
+    "melting_point": "900 °C = 1652.00 °F = 1173.15 K",
+    "boiling_point": "1472 °C = 2681.60 °F = 1745.15 K",
+    "valence_electrons": "4",
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Californium/Cf.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup>",
+    "oxidation_state": "+2, +3, +3",
+    "ion_charge": "Cf<sup>3+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "295 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "----",
+    "resistivity": "----",
+    "superconducting_point": "----",
+    "lattice_structure": "Californium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Double hexagonal close-packed",
+    "grid": "a=3.38 \u212B;; c=11.03 \u212B;",
+    "attitude": "3.26",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-71-3",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "----",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "----",
+    "Young_modulus": "----",
+    "liquid_density": "----",
+    "molar_volume": "----",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "----",
+    "refractive_index": "----",
+    "thermal_conductivity": "----",
+    "electronegative": "Pauling Scale 1.3",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "899.9 years",
+    "life_time": "1299 years",
+    "barn": "2900 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 237,
+    "stop_isotope_number": 243,
+    "half_life_number": ["2.1 ms", "21.1 ns", "60 ms", "1.06 m", "3.78 m", "3.49", "10.7 m"],
+    "iso_weight": [237.06204, 238.06141, 239.06242, 240.0623, 241.06372, 242.06370, 234.06543]
+}

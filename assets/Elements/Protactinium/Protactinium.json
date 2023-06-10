@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Protactinium",
+    "video": "https://www.youtube.com/watch?v=bsIMMa7iEKU&list=PL7A1F4CF36C085DE1&index=91",
+    "image": "Protactinium/protactinium.jpg",
+    "species": "ACTINOIDS",
+    "symbol": "Pa",
+    "latin_name": "Protactinium",
+    "english_name": "Protactinium",
+    "year_discovered": "1918",
+    "discovered_by": "Otto Hahn, Lise Meitner, Frederick Soddy",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 20
+        },
+        {
+            "P": 9
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 91,
+        },
+        {
+            "protons": 91,
+        },
+        {
+            "neutrons": 140
+        }
+    ],
+    "atomic_number": 91,
+    "atomic_weight": "231.0358 ((g/mol)",
+    "density": "15.37 (g/cm³)",
+    "melting_point": "1840 °C = 3344.00 °F = 2113.15 K",
+    "boiling_point": "4027 °C = 7280.60 °F = 4300.15 K",
+    "valence_electrons": 5,
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Protactinium/Pa.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "15 (kJ &middot K)",
+    "specific_heat": "99.1 J/(kg &middot; K)",
+    "thermal_expansion": "9.9 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "470 kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup> 5f<sup>2</sup> 6d<sup>1</sup>",
+    "oxidation_state": "+3, +4, +5",
+    "ion_charge": "Pa<sup>4+</sup>, Pa<sup>5+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "161 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "5.6 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0004995",
+    "mass_susceptibility": "0.0000000325",
+    "molar_susceptibility": "7.509 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.8 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-271.75 °C = -457.15 °F = 1.4 K",
+    "lattice_structure": "Protactinium/Tetragonal.png",
+    "crystal_structure": "Tetragonal",
+    "grid": "a=3.925 \u212B; c=3.238 \u212B",
+    "attitude": "0.82",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "139",
+    "CAS_number": "CAS7440-13-3",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "15 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "47 W/mK",
+    "electronegative": "Pauling Scale 1.5",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "32765 years",
+    "life_time": "47246 years",
+    "barn": "500 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "2 &middot; 10<sup>-23</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "9.9 &middot; 10<sup>-23</sup> %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 212,
+    "stop_isotope_number": 217,
+    "half_life_number": ["5.1 ms", "5.3 ms", "17 ms", "14 ms", "105 ms", "3.48 ms"],
+    "iso_weight": [212.02320, 213.02111, 214.02092, 215.01919, 216.01911, 217.01832]
+}

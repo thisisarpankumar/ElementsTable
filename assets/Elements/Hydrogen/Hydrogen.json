@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Hydrogen",
+    "video": "https://www.youtube.com/watch?v=6rdmpx39PRk&list=PL7A1F4CF36C085DE1&index=1",
+    "image": "Hydrogen/hydrogen.jpg",
+    "species": "OTHER NONMETALS",
+    "symbol": "H",
+    "latin_name": "Hydrogenium",
+    "english_name": "Hydrogen",
+    "year_discovered": "1766",
+    "discovered_by": "Henry Cavendish",
+    "Electron_shell": [
+        {
+            "K": 1
+        },
+        {
+            "L": 0
+        },
+        {
+            "M": 0
+        },
+        {
+            "N": 0
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 1,
+        },
+        {
+            "protons": 1,
+        },
+        {
+            "neutrons": 0
+        }
+    ],
+    "atomic_number": 1,
+    "atomic_weight": "1.00784 (g/mol)",
+    "density": "0.0000899 (g/cm³)",
+    "melting_point": "-259.14 °C = -434.45 °F = 14.01 K",
+    "boiling_point": "-252.87 °C = -423.17 °F = 20.28 K",
+    "valence_electrons": "1",
+    "period": 1,
+    "group": "I A",
+    "block": "s-block",
+    "emission_spectrum": "Hydrogen/H.gif",
+    "phase": "Gas",
+    "phase_icon": "----",
+    "fusion_heat": "0.558 (kJ &middot K)",
+    "specific_heat": "14300 J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "0.452 kJ &middot; mol",
+    "electron_configuration": "1s<sup>1</sup>",
+    "oxidation_state": "-1, +1",
+    "ion_charge": "H<sup>-</sup>, H<sup>+</sup>",
+    "ionization_potential": "13.53 eV",
+    "atomic_radius": "53 (pm)",
+    "covalent_radius": "38 (pm)",
+    "van_der_waals_radius": "120 (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "Diamagnetic",
+    "volume_susceptibility": "-2.23 &middot; 10<sup>-9</sup>",
+    "mass_susceptibility": "-2.48 &middot; 10<sup>-8</sup>",
+    "molar_susceptibility": "-4.999 &middot; 10<sup>-11</sup> m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Hydrogen/Double-Hexagonal-Close-Packed.png",
+    "crystal_structure": "Hexagonal",
+    "grid": "a=3.780 \u212B; c=6.167 \u212B",
+    "attitude": "1.631",
+    "debye_temperature": "-163.15 °C = -261.67 °F = 110 K",
+    "space_group_name": "R_3m",
+    "space_group_number": "166",
+    "CAS_number": "CAS1333-74-0",
+    "CID_number": "CID783",
+    "RTEC_number": "RTECSMW8900000",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "14 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "1270 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "0.1805 W/mK",
+    "electronegative": "Pauling Scale 2.2",
+    "electron_affinity": "72.8 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "0.332 b",
+    "hazard_block": [
+        {
+            "red": "4"
+        },
+        {
+            "yellow": "0"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Below 22.7 °C",
+    "health_hazard":"Extreme danger",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "75 %",
+    "sun_contains": "75 %",
+    "oceans_contains": "11 %",
+    "human_body_contains": "10 %",
+    "earth_crust_contains": "0.15 %",
+    "meteorites_contains": "2.4 %",
+    "start_isotope_number": 1,
+    "stop_isotope_number": 7,
+    "half_life_number": [">6.6 &middot; 10<sup>33</sup> years", "Stable", "12.32 years", "1.39 &middot; 10<sup>-22</sup> s", ">9.1 &middot; 10<sup>-22</sup> s", "2.90 &middot; 10<sup>-22</sup> s", "2.3 &middot; 10<sup>-23</sup> s"],
+    "iso_weight": [1.00782, 2.01410, 3.01604, 4.02781, 5.03531, 6.04494, 7.052754]
+}

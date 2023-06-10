@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Neptunium",
+    "video": "https://www.youtube.com/watch?v=1D75B0_URbE&list=PL7A1F4CF36C085DE1&index=93",
+    "image": "Neptunium/neptunium.jpg",
+    "species": "ACTINOIDS",
+    "symbol": "Np",
+    "latin_name": "Neptunium",
+    "english_name": "Neptunium",
+    "year_discovered": "1940",
+    "discovered_by": "----",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 22
+        },
+        {
+            "P": 9
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 93,
+        },
+        {
+            "protons": 93,
+        },
+        {
+            "neutrons": 144
+        }
+    ],
+    "atomic_number": 93,
+    "atomic_weight": "237.0482 (g/mol)",
+    "density": "20.48 (g/cm³)",
+    "melting_point": "644 °C = 1191.20 °F = 917.15 K",
+    "boiling_point": "3902 °C = 7055.60 °F = 4175.15 K",
+    "valence_electrons": "8",
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Barium/Ba.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "10 (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "335 kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup> 5f<sup>4</sup> 6d<sup>1</sup>",
+    "oxidation_state": "+2, +3, +4, +5, +6, +7",
+    "ion_charge": "Np<sup>5+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "130 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "8.3 &middot; 10<sup>5</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "1.2 &middot; 10<sup>-6</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Neptunium/Orthorhombic.svg.png",
+    "crystal_structure": "Orthorhombic",
+    "grid": "a=6.663 \u212B; b=4.723 \u212B; c=4.887 \u212B",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "Pnma",
+    "space_group_number": "62",
+    "CAS_number": "CAS7439-99-8",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "118 GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "21.1 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "6 W/mK",
+    "electronegative": "Pauling Scale 1.36",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "214401",
+    "life_time": "31000",
+    "barn": "180 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 225,
+    "stop_isotope_number": 230,
+    "half_life_number": ["3 ms", "35 ms", "510 ms", "64.4 s", "4 m", "4.6 m"],
+    "iso_weight": [225.03391, 226.03515, 227.03496, 228.03618, 229.03626, 230.03783]
+}

@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Radium",
+    "video": "https://www.youtube.com/watch?v=5_I6vj-lXNM&list=PL7A1F4CF36C085DE1&index=88",
+    "image": "Radium/radium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Ra",
+    "latin_name": "Radium",
+    "english_name": "Radium",
+    "year_discovered": "1898",
+    "discovered_by": "Pierre Curie, Marie Skłodowska Curie",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 18
+        },
+        {
+            "P": 8
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 88,
+        },
+        {
+            "protons": 88,
+        },
+        {
+            "neutrons": 138
+        }
+    ],
+    "atomic_number": 88,
+    "atomic_weight": "226.0254 (g/mol)",
+    "density": "5.5 (g/cm³)",
+    "melting_point": "696 °C = 1284.80 °F = 969.15 K",
+    "boiling_point": "1737 °C = 3158.60 °F = 2010.15 K",
+    "valence_electrons": 2,
+    "period": 7,
+    "group": "II A",
+    "block": "s-block",
+    "emission_spectrum": "Radium/Ra.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "8 (kJ &middot K)",
+    "specific_heat": "92 J/(kg &middot; K)",
+    "thermal_expansion": "---- °C<sup>-1</sup>)",
+    "vaporization_heat": "125 kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup>",
+    "oxidation_state": "+2",
+    "ion_charge": "Ra<sup>2+</sup>",
+    "ionization_potential": "5.4 eV",
+    "atomic_radius": "215 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "283 (pm)",
+    "electrical_conductivity": "1 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "1 &middot; 10<sup>-6</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Radium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "----",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7440-14-4",
+    "CID_number": "CID6328144",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "45 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "19 W/mK",
+    "electronegative": "Pauling Scale 0.9",
+    "electron_affinity": "2 KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "1584 years",
+    "life_time": "2313 years",
+    "barn": "20 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "1 &middot; 10<sup>-15</sup> %",
+    "human_body_contains": "1 &middot; 10<sup>-13</sup> %",
+    "earth_crust_contains": "1 &middot; 10<sup>-11</sup> %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 202,
+    "stop_isotope_number": 234,
+    "half_life_number": ["2.6 ms", "4 ms", "60 ms", "220 ms", "240 ms", "57 ms", "1.3 s", "4.6 s", "3.7 s", "13 s", "13 s", "2.74 m", "2.46 s", "1.55 ms", "182 ns", "1.63 ms", "25.2 ns", "10 ms", "17.9 ms", "28 s", "11.43 days", "3.6319 days", "14.9 days", "1600 years", "42.2 m", "5.75 years", "4 m", "93 m", "103 s", "250 s", "30 s", "30 s"],
+    "iso_weight": [202.00989, 203.00927, 204.00650, 205.00627, 206.00382, 207.00380, 208.00184, 209.00199, 210.000495, 211.000898, 213.000384, 214.000108, 215.002720, 216.003533, 217.006320, 218.007140, 219.010085, 220.011028, 221.013917, 222.015375, 223.0185022, 224.0202118, 225.023612, 226.0254098, 227.0291998, 228.0310703, 229.034958, 230.037056, 231.04122, 232.04364, 233.04806, 234.05070]
+}

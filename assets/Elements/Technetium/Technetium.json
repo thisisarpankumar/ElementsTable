@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Technetium",
+    "video": "https://www.youtube.com/watch?v=ud5c1TVkcnU&list=PL7A1F4CF36C085DE1&index=43",
+    "image": "Technetium/technetium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Tc",
+    "latin_name": "Technetium",
+    "english_name": "Technetium",
+    "year_discovered": "1774",
+    "discovered_by": "Humphry Davy",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 18
+        },
+        {
+            "O": 8
+        },
+        {
+            "P": 2
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 56,
+        },
+        {
+            "protons": 56,
+        },
+        {
+            "neutrons": 81
+        }
+    ],
+    "atomic_number": 56,
+    "atomic_weight": "98.906 (g/mol)",
+    "density": "11.49 (g/cm³)",
+    "melting_point": "2157 °C = 3914.60 °F = 2430.15 K",
+    "boiling_point": "4265 °C = 7709.00 °F = 4538.15 K",
+    "valence_electrons": 6,
+    "period": 5,
+    "group": "VII B",
+    "block": "d-block",
+    "emission_spectrum": "Technetium/Tc.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "23 (kJ &middot K)",
+    "specific_heat": "63 J/(kg &middot; K)",
+    "thermal_expansion": "7.1 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "550 kJ &middot; mol",
+    "electron_configuration": "[Kr] 5s<sup>2</sup> 4d<sup>5</sup>",
+    "oxidation_state": "-3, -1, +1, +2, +3, +4, +5, +6, +7",
+    "ion_charge": "Tc<sup>7+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "136 (pm)",
+    "covalent_radius": "156 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "5 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0003933",
+    "mass_susceptibility": "0.0000000342",
+    "molar_susceptibility": "3.352 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "2 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-265.35 °C = -445.63 °F = 7.8 K",
+    "lattice_structure": "Technetium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "a=2.737 \u212B; c=4.391 \u212B",
+    "attitude": "1.602",
+    "debye_temperature": "179.85 °C = 355.73 °F = 453 K",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-26-8",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "---- MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "8.5 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "51 W/mK",
+    "electronegative": "Pauling Scale 1.9",
+    "electron_affinity": "53 KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "41194 years",
+    "life_time": "60207 years",
+    "barn": "22 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 85,
+    "stop_isotope_number": 120,
+    "half_life_number": ["-", "55 ms", "2.18 s", "5.8 s", "12.8 s", "8.7 s", "3.14 m", NaN, "2.75 years", "293 m", "20.1 hours", "4.28 days", "2.6 years", "4.2 years", "2.111 years", "15.8 s", "14.22 m", "5.28 s", "54.2 s", "18.3 m", "7.6 m", "35.6 s", "21.2 s", "5.17 s", "860 ms", "0.92 s", "290 ms", "290 ms", "170 ms", "150 ms", "100 ms", "90 ms", "40 ms", "392 ns", "394 ns"],
+    "iso_weight": [84.94883, 85.94288, 86.93653, 87.93268, 88.92717, 89.92717, 90.91843, NaN, 92.91024, 93.90965, 94.90765, 95.90787, 96.90636, 97.90721, 98.90625, 99.90765, 100.9073, 101.9092, 102.9091, 103.9114, 104.9116, 105.9143, 106.91508, 107.91846, 108.91998, 109.92382, 110.92569, 111.92915, 112.93159, 113.93588, 114.93869, 115.94337, 116.94648, 117.95148]
+}

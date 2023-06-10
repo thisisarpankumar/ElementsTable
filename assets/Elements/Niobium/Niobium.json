@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Niobium",
+    "video": "https://www.youtube.com/watch?v=2ciPAsVTq6c&list=PL7A1F4CF36C085DE1&index=41",
+    "image": "Niobium/niobium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "Nb",
+    "latin_name": "Niobium",
+    "english_name": "Niobium",
+    "year_discovered": "1801",
+    "discovered_by": "Charles Hatchett",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 12
+        },
+        {
+            "O": 1
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 41,
+        },
+        {
+            "protons": 41,
+        },
+        {
+            "neutrons": 52
+        }
+    ],
+    "atomic_number": 41,
+    "atomic_weight": "92.906 (g/mol)",
+    "density": "8.58 (g/cm³)",
+    "melting_point": "2477 °C = 4490.60 °F = 2750.15 K",
+    "boiling_point": "4927 °C = 8900.60 °F = 5200.15 K",
+    "valence_electrons": "5",
+    "period": 5,
+    "group": "V B",
+    "block": "d-block",
+    "emission_spectrum": "Niobium/Nb.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "26.8 (kJ &middot K)",
+    "specific_heat": "265 J/(kg &middot; K)",
+    "thermal_expansion": "7.3 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "690 kJ &middot; mol",
+    "electron_configuration": "[Kr] 5s<sup>1</sup> 4d<sup>4</sup>",
+    "oxidation_state": "-3, -1, +1, +2, +3, +4, +5",
+    "ion_charge": "Nb<sup>3+</sup>, Nb<sup>5+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "146 (pm)",
+    "covalent_radius": "137 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "6.7 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0002408",
+    "mass_susceptibility": "0.0000000281",
+    "molar_susceptibility": "2.56 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "1.4 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-263.90 °C = -443.02 °F = 9.25 K",
+    "lattice_structure": "Niobium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "a=3.301 \u212B",
+    "attitude": "----",
+    "debye_temperature": "1.85 °C = 35.33 °F = 275 K",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7440-03-1",
+    "CID_number": "CID23936",
+    "RTEC_number": "RTECSQT9900000",
+    "brinell_hardness": "735-2450 MPa",
+    "mohs_hardness": "6",
+    "vickers_hardness": "735-2450 MPa",
+    "bulk_modulus": "170 GPa",
+    "Young_modulus": "105 GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "10.8 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.4 &micro;",
+    "shear_modulus": "38 GPa",
+    "sound_speed": "3480 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "54 W/mK",
+    "electronegative": "Pauling Scale 1.6",
+    "electron_affinity": "86.1 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "1.15 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "2 &middot; 10<sup>-7</sup> %",
+    "sun_contains": "4 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "1 &middot; 10<sup>-6</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.0017 %",
+    "meteorites_contains": "0.000019 %",
+    "start_isotope_number": 81,
+    "stop_isotope_number": 97,
+    "half_life_number": ["44 ns", "51 ns", "4.1 s", "9.8 s", "20.9 s", "88 s", "3.75 m", "14.55 m", "2.03 hours", "14.60 hours", "680 years", "-", "stable", "-", "34.991 days", "23.55 hours", "72.1 m"],
+    "iso_weight": [80.94903, 81.94313, 82.93671, 83.93357, 84.92791, 85.92504, 86.92036, 87.91833, 88.913418, 89.911265, 90.906996, 91.907194, 92.906378, 93.907283, 94.906835, 95.908101, 96.908098]
+}

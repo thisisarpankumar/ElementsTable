@@ -1,0 +1,76 @@
+.top-icon{
+    font-size: 2em;
+    color: #fff;
+    position: relative;
+    bottom: 120px;
+    transition: transform 0.2s;
+}
+.fa-arrow-left, .fa-wikipedia-w, .fa-image, .fa-youtube{
+    top: -5em;
+}
+.fa-arrow-left{
+    left: 1em;
+}
+.fa-wikipedia-w{
+    float: right;
+    right: -0.5em;
+}
+.fa-image{
+    float: right;
+    right: 3em;
+}
+.fa-youtube{
+    float: right;
+    right: 6.7em;
+}
+.top-icon:hover{
+    transform: scale(1.3);
+}
+.fa-atom, .fa-vial, .fa-cube, .fa-cubes, .fa-magnet, .fa-th-large, .fa-flask, .fa-star, .fa-react, .fa-globe, .fa-radiation, .fa-microscope{
+    color: #000;
+    font-size: 1.2em;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+.fa-cloud, .fa-cube, .fa-tint{
+    color: #000;
+    float: right;
+    transition: 0.5s;
+}
+.fa-cube{
+    color: rgb(15, 247, 45);
+}
+.fa-tint{
+    color: aqua;
+}
+.fa-cloud:hover, .fa-cube:hover, .fa-tint:hover{
+    transform: scale(1.9);
+    cursor: pointer;
+    color: #fff;
+}
+/*.fa-cloud:hover .iconText{
+    opacity: 1;
+    transform: translateY(-10px);
+}
+.iconText {
+    background-color: #fff;
+    position: relative;
+    bottom: 3em;
+    right: 2.5em;
+    float: right;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    opacity: 0;
+    transition: all .5s;
+}
+.iconText::after {
+    content: '';
+    border-width: 5px;
+    border-style: solid;
+    border-color: #fff transparent transparent transparent;
+    position: absolute;
+    top: 100%;
+    left: 40%;
+    margin-left: 5%;
+}*/

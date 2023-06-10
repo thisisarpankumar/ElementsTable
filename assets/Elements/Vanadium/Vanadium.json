@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Vanadium",
+    "video": "https://www.youtube.com/watch?v=MbCmaQzrZoc&list=PL7A1F4CF36C085DE1&index=23",
+    "image": "Vanadium/vanadium.jpg",
+    "species": "TRANSITION METALS",
+    "symbol": "V",
+    "latin_name": "Vanadium",
+    "english_name": "Vanadium",
+    "year_discovered": "1830",
+    "discovered_by": "Andres Manuel del Rio",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 11
+        },
+        {
+            "N": 2
+        },
+        {
+            "O": 0
+        },
+        {
+            "P": 0
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 23,
+        },
+        {
+            "protons": 23,
+        },
+        {
+            "neutrons": 28
+        }
+    ],
+    "atomic_number": 23,
+    "atomic_weight": "50.9415 (g/mol)",
+    "density": "6.11 (g/cm³)",
+    "melting_point": "1910 °C = 3470.00 °F = 2183.15 K",
+    "boiling_point": "3407 °C = 6164.60 °F = 3680.15 K",
+    "valence_electrons": 5,
+    "period": 4,
+    "group": "V B",
+    "block": "d-block",
+    "emission_spectrum": "Vanadium/V.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "22.8 (kJ &middot K)",
+    "specific_heat": "489 J/(kg &middot; K)",
+    "thermal_expansion": "8.4 &middot; 10<sup>-6</sup> °C<sup>-1</sup>)",
+    "vaporization_heat": "453 kJ &middot; mol",
+    "electron_configuration": "[Ar] 4s<sup>2</sup> 3d<sup>3</sup>",
+    "oxidation_state": "-3, -1, +1, +2, +3, +4, +5",
+    "ion_charge": "V<sup>3+</sup>, V<sup>5+</sup>",
+    "ionization_potential": "6.76 eV",
+    "atomic_radius": "134 (pm)",
+    "covalent_radius": "125 (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "0.0003837",
+    "mass_susceptibility": "0.0000000628",
+    "molar_susceptibility": "3.199 &middot; 10<sup>-9</sup> m<sup>3</sup>/mol",
+    "resistivity": "2 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-267.75 °C = -449.95 °F = 5.4 K",
+    "lattice_structure": "Barium/Lattice_body_centered_cubic.svg.png",
+    "crystal_structure": "Body-centered cubic",
+    "grid": "a=3.024 \u212B",
+    "attitude": "----",
+    "debye_temperature": "116.85 °C = 242.33 °F = 390 K",
+    "space_group_name": "Im_3m",
+    "space_group_number": "229",
+    "CAS_number": "CAS7440-62-2",
+    "CID_number": "CID23990",
+    "RTEC_number": "----",
+    "brinell_hardness": "600-742 MPa",
+    "mohs_hardness": "7",
+    "vickers_hardness": "628-640 MPa",
+    "bulk_modulus": "160 GPa",
+    "Young_modulus": "128 GPa",
+    "liquid_density": "5.5 (g/cm<sup>3</sup>)",
+    "molar_volume": "8.35 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.37 &micro;",
+    "shear_modulus": "47 GPa",
+    "sound_speed": "4560 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "31 W/mK",
+    "electronegative": "Pauling Scale 1.63",
+    "electron_affinity": "50.6 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "5.06 b",
+    "hazard_block": [
+        {
+            "red": "2"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Above 93.3 °C",
+    "health_hazard":"Hazardous",
+    "reactivity": "Stable",
+    "specific": "----",
+    "universe_contains": "0.0001 %",
+    "sun_contains": "0.00004 %",
+    "oceans_contains": "1.5 &middot; 10<sup>-7</sup> %",
+    "human_body_contains": "3 &middot; 10<sup>-6</sup> %",
+    "earth_crust_contains": "0.019 %",
+    "meteorites_contains": "0.0061 %",
+    "start_isotope_number": 40,
+    "stop_isotope_number": 60,
+    "half_life_number": ["-", "-", "55 ns", "80 ms", "111 ms", "547 ms", "422.50 ms", "32.6 m", "15.9 days", "329 days", "1.5 &middot; 10<sup>17</sup> years", "Stable", "3.743 m", "1.60 m", "49.8 s", "6.54 s", "216 ms", "350 ms", "191 ms", "75 ms", "122 ms"],
+    "iso_weight": [40.01109, 40.99978, 41.99123, 42.98065, 43.97411, 44.96020, 45.96020, 46.95490, 47.95225, 46.95490, 47.95225, 48.94851, 49.94715, 50.94395, 51.94477, 52.94433, 53.94644, 54.94723, 55.95053, 56.95256, 57.95683, 58.96021, 59.96503]
+}

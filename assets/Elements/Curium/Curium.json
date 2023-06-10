@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Curium",
+    "video": "https://www.youtube.com/watch?v=sZobqPFNcwg&list=PL7A1F4CF36C085DE1&index=96",
+    "image": "Curium/Curium.jpg",
+    "species": "ALKALINE EARTH METALS",
+    "symbol": "Cm",
+    "latin_name": "Curium",
+    "english_name": "Curium",
+    "year_discovered": "1944",
+    "discovered_by": "Glenn Theodore Seaborg",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 25
+        },
+        {
+            "P": 9
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 96,
+        },
+        {
+            "protons": 96,
+        },
+        {
+            "neutrons": 151
+        }
+    ],
+    "atomic_number": 96,
+    "atomic_weight": "247.0703 (g/mol)",
+    "density": "13.51 (g/cm³)",
+    "melting_point": "1345 °C = 2453.00 °F = 1618.15 K",
+    "boiling_point": "3110 °C = 5630.00 °F = 3383.15 K",
+    "valence_electrons": "4",
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Curium/Cm.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "---- (kJ &middot K)",
+    "specific_heat": "---- J/(kg &middot; K)",
+    "thermal_expansion": "----°C<sup>-1</sup>)",
+    "vaporization_heat": "---- kJ &middot; mol",
+    "electron_configuration": "[Rn] 7s<sup>2</sup>5f<sup>7</sup>6d<sup>1</sup>",
+    "oxidation_state": "+3, +4, +6",
+    "ion_charge": "Cm<sup>3+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "299 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "----",
+    "molar_susceptibility": "---- m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Curium/Double-Hexagonal-Close-Packed.png",
+    "crystal_structure": "Double hexagonal close-packed",
+    "grid": "a=3.496 \u212B;; c=11.33 \u212B;",
+    "attitude": "3.24",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-51-9",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "----",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "---- GPa",
+    "Young_modulus": "---- GPa",
+    "liquid_density": "---- (g/cm<sup>3</sup>)",
+    "molar_volume": "18.28 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "---- GPa",
+    "sound_speed": "---- m/s",
+    "refractive_index": "---- ",
+    "thermal_conductivity": "---- W/mK",
+    "electronegative": "Pauling Scale 1.3",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "155905 years",
+    "life_time": "224985 years",
+    "barn": "60 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "---- %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "---- %",
+    "meteorites_contains": "---- %",
+    "start_isotope_number": 232,
+    "stop_isotope_number": 237,
+    "half_life_number": ["1 m", "1 m", "51 ms", "5 m", "10 m", "20 m"],
+    "iso_weight": [NaN, 233.05077, 234.05016, 235.05143, 236.05141, 137.05290]
+}

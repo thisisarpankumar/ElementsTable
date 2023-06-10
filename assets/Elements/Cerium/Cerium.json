@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Cerium",
+    "video": "https://www.youtube.com/watch?v=frD3126ry8o&list=PL7A1F4CF36C085DE1&index=58",
+    "image": "Cerium/cerium.jpg",
+    "species": "LANTHANOIDS",
+    "symbol": "Ce",
+    "latin_name": "Cerium",
+    "english_name": "Cerium",
+    "year_discovered": "1803",
+    "discovered_by": "----",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 19
+        },
+        {
+            "O": 9
+        },
+        {
+            "P": 2
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 58,
+        },
+        {
+            "protons": 58,
+        },
+        {
+            "neutrons": 82
+        }
+    ],
+    "atomic_number": 58,
+    "atomic_weight": "140.116 (g/mol)",
+    "density": "6.77 (g/cm³)",
+    "melting_point": "795 °C = 1463.00 °F = 1068.15 K",
+    "boiling_point": "3443 °C = 6229.40 °F = 3716.15 K",
+    "valence_electrons": "4",
+    "period": 6,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Cerium/Ce.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "5.5 (kJ &middot K)",
+    "specific_heat": "192 J/(kg &middot; K)",
+    "thermal_expansion": "6.3 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "350 kJ &middot; mol",
+    "electron_configuration": "[Xe] 4f<sup>1</sup>5d<sup>1</sup>6s<sup>2</sup>",
+    "oxidation_state": "+2, +3, +4",
+    "ion_charge": "Ce<sup>3+</sup>",
+    "ionization_potential": "6.91 eV",
+    "atomic_radius": "181 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "1.4 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0014716",
+    "mass_susceptibility": "0.00000022",
+    "molar_susceptibility": "3.0826 &middot; 10<sup>-8</sup> m<sup>3</sup>/mol",
+    "resistivity": "7.4 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "-273.13 °C = -459.63 °F = 0.022 K",
+    "lattice_structure": "Cerium/Double-Hexagonal-Close-Packed.png",
+    "crystal_structure": "Double hexagonal close-packed",
+    "grid": "a=5.160 \u212B;",
+    "attitude": "----",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-45-1",
+    "CID_number": "CID23974",
+    "RTEC_number": "----",
+    "brinell_hardness": "186-412 MPa",
+    "mohs_hardness": "2.5",
+    "vickers_hardness": "210-470 MPa",
+    "bulk_modulus": "21.5 GPa",
+    "Young_modulus": "33.6 GPa",
+    "liquid_density": "6.55 (g/cm<sup>3</sup>)",
+    "molar_volume": "21 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.24 &micro;",
+    "shear_modulus": "14 GPa",
+    "sound_speed": "2100 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "11 W/mK",
+    "electronegative": "Pauling Scale 1.12",
+    "electron_affinity": "50 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "0.6 b",
+    "hazard_block": [
+        {
+            "red": "2"
+        },
+        {
+            "yellow": "3"
+        },
+        {
+            "blue": "3"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "Below 37.7 °C",
+    "health_hazard":"Hazardous",
+    "reactivity": "Violent chemical change",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "4 &middot; 10<sup>-7</sup> %",
+    "oceans_contains": "1.2 &middot; 10<sup>-10</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.006 %",
+    "meteorites_contains": "0.000075 %",
+    "start_isotope_number": 119,
+    "stop_isotope_number": 128,
+    "half_life_number": ["200 ms", "250 ms", "1.1", "23.8 s", "9.1 s", "6.3 s", "51 s", "29 s", "3.93 m", "3.5 m"],
+    "iso_weight": [118.95276, 119.94664, 120.94342, 121.93791, 122.93540, 123.93041, 124.92844, 125.92397, 126.92273, 127.91891]
+}

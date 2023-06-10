@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Americium",
+    "video": "https://www.youtube.com/watch?v=CC-L-CITg3k&list=PL7A1F4CF36C085DE1&index=95",
+    "image": "Americium/americium.jpg",
+    "species": "actinoids",
+    "symbol": "Am",
+    "latin_name": "Americium",
+    "english_name": "Americium",
+    "year_discovered": 1944,
+    "discovered_by": "Glenn Theodore Seaborg",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 32
+        },
+        {
+            "O": 25
+        },
+        {
+            "P": 8
+        },
+        {
+            "Q": 2
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 95,
+        },
+        {
+            "protons": 95,
+        },
+        {
+            "neutrons": 148
+        }
+    ],
+    "atomic_number": 95,
+    "atomic_weight": "243.0614 (g/mol)",
+    "density": "13.67 (g/cm³)",
+    "melting_point": "1176 °C = 2148.80 °F = 1449.15 K",
+    "boiling_point": "2607 °C = 4724.60 °F = 2880.15 K",
+    "valence_electrons": "----",
+    "period": 7,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Americium/am.gif",
+    "phase": "Solid",
+    "phase_icon": "",
+    "fusion_heat": "----",
+    "specific_heat": "----",
+    "thermal_expansion": "----",
+    "vaporization_heat": "----",
+    "electron_configuration": "[Rn]7s<sup>2</sup>5f<sup>7</sup>",
+    "oxidation_state": "+2, +3, +4, +5, +6, +7",
+    "ion_charge": "Am<sup>3+</sup>, Am<sup>4+</sup>",
+    "ionization_potential": "----",
+    "atomic_radius": "173 (pm)",
+    "covalent_radius": "----",
+    "van_der_waals_radius": "----",
+    "electrical_conductivity": "----",
+    "electrical_type": "----", 
+    "magnetic_type": "----",
+    "volume_susceptibility": "----",
+    "mass_susceptibility": "0.0000000515",
+    "molar_susceptibility": "1.251 &middot; 10<sup>-10</sup> m<sup>3</sup>/mol",
+    "resistivity": "---- m\u03A9",
+    "superconducting_point": "-272.55 °C = -458.59 °F = 0.6 K",
+    "lattice_structure": "Americium/Double-hexagonal-close-packed.png",
+    "crystal_structure": "Double hexagonal close-packed",
+    "grid": "a=3.468 \u212B; c=11.24 \u212B",
+    "attitude": "3.24",
+    "debye_temperature": "----",
+    "space_group_name": "P6<sub>3</sup>/mmc",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-35-9",
+    "CID_number": "----",
+    "RTEC_number": "----",
+    "brinell_hardness": "----",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "----",
+    "Young_modulus": "----",
+    "liquid_density": "----",
+    "molar_volume": "20.8 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "----",
+    "shear_modulus": "----",
+    "sound_speed": "----",
+    "refractive_index": "----",
+    "thermal_conductivity": "10 W/mK",
+    "electronegative": "Pauling Scale 1.3",
+    "electron_affinity": "---- KJ/mol",
+    "radioactivity": "yes",
+    "half_life": "7383 years",
+    "life_time": "10647 years",
+    "barn": "74 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard": "----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "----",
+    "sun_contains": "----",
+    "oceans_contains": "----",
+    "human_body_contains": "----",
+    "earth_crust_contains": "----",
+    "meteorites_contains": "----",
+    "start_isotope_number": 231,
+    "stop_isotope_number": 249,
+    "half_life_number": ["30 s", "79 s", "3.2 m", "2.32 m", "9.9 m", "3.6 m", "73 m", "98 m", "11.9 hours", "50.8 hours", "432.2 years", "16.02 hours", "7370 years", "10.1 hours", "2.05 hours", "39 m", "23 m", "3 m", "1 m"],
+    "iso_weight": [231.04556, 232.04659, 233.04635, 234.04781, 235.04795, 236.04958, 237.05000, 238.05198, 239.05302, 240.05530, 241.05682, 242.05954, 243.06138, 244.06428, 245.06645, 246.06977, 247.07209, 248.07575, 248.07575, 249.07848]
+}

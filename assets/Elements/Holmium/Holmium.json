@@ -1,0 +1,135 @@
+var element_data = {
+    "wiki": "https://en.wikipedia.org/wiki/Holmium",
+    "video": "https://www.youtube.com/watch?v=HQahtzCU0BU&list=PL7A1F4CF36C085DE1&index=67",
+    "image": "Holmium/holmium.jpg",
+    "species": "LANTHANOIDS",
+    "symbol": "Ho",
+    "latin_name": "Holmium",
+    "english_name": "Holmium",
+    "year_discovered": "1878",
+    "discovered_by": "Per Teodor Cleve, Auguste Honoré Charlois",
+    "Electron_shell": [
+        {
+            "K": 2
+        },
+        {
+            "L": 8
+        },
+        {
+            "M": 18
+        },
+        {
+            "N": 29
+        },
+        {
+            "O": 8
+        },
+        {
+            "P": 2
+        },
+        {
+            "Q": 0
+        },
+        {
+            "R": 0
+        }
+    ],
+    "epn_no": [
+        {
+            "electrons": 67,
+        },
+        {
+            "protons": 67,
+        },
+        {
+            "neutrons": 98
+        }
+    ],
+    "atomic_number": 67,
+    "atomic_weight": "164.93 (g/mol)",
+    "density": "8.78 (g/cm³)",
+    "melting_point": "1470 °C = 2678.00 °F = 1743.15 K",
+    "boiling_point": "2695 °C = 4883.00 °F = 2968.15 K",
+    "valence_electrons": "3",
+    "period": 6,
+    "group": "----",
+    "block": "f-block",
+    "emission_spectrum": "Holmium/Ho.gif",
+    "phase": "Solid",
+    "phase_icon": "----",
+    "fusion_heat": "17 (kJ &middot K)",
+    "specific_heat": "165 J/(kg &middot; K)",
+    "thermal_expansion": "11.2 &middot; 10<sup>-6</sup>°C<sup>-1</sup>)",
+    "vaporization_heat": "265 kJ &middot; mol",
+    "electron_configuration": "[Xe] 6s<sup>2</sup>4f<sup>11</sup>",
+    "oxidation_state": "+3, +3",
+    "ion_charge": "Ho<sup>3+</sup>",
+    "ionization_potential": "---- eV",
+    "atomic_radius": "179 (pm)",
+    "covalent_radius": "---- (pm)",
+    "van_der_waals_radius": "---- (pm)",
+    "electrical_conductivity": "1.1 &middot; 10<sup>6</sup>",
+    "electrical_type": "Conductor", 
+    "magnetic_type": "Paramagnetic",
+    "volume_susceptibility": "0.0482845",
+    "mass_susceptibility": "0.00000549",
+    "molar_susceptibility": "9.05467 &middot; 10<sup>-7</sup> m<sup>3</sup>/mol",
+    "resistivity": "9.4 &middot; 10<sup>-7</sup> m\u03A9",
+    "superconducting_point": "----",
+    "lattice_structure": "Holmium/Hexagonal_close_packed.svg.png",
+    "crystal_structure": "Hexagonal close-packed",
+    "grid": "a=3.577 \u212B; c=5.616 \u212B",
+    "attitude": "1.570",
+    "debye_temperature": "----",
+    "space_group_name": "----",
+    "space_group_number": "194",
+    "CAS_number": "CAS7440-60-0",
+    "CID_number": "CID23988",
+    "RTEC_number": "----",
+    "brinell_hardness": "500-1250 MPa",
+    "mohs_hardness": "----",
+    "vickers_hardness": "----",
+    "bulk_modulus": "40.2 GPa",
+    "Young_modulus": "64.8 GPa",
+    "liquid_density": "8.34 (g/cm<sup>3</sup>)",
+    "molar_volume": "18.7 (cm<sup>3</sup>/mol)",
+    "poisson_ratio": "0.23 &micro;",
+    "shear_modulus": "26 GPa",
+    "sound_speed": "2760 m/s",
+    "refractive_index": "----",
+    "thermal_conductivity": "16 W/mK",
+    "electronegative": "Pauling Scale 1.23",
+    "electron_affinity": "50 KJ/mol",
+    "radioactivity": "no",
+    "half_life": "\u221E",
+    "life_time": "\u221E",
+    "barn": "65 b",
+    "hazard_block": [
+        {
+            "red": "-"
+        },
+        {
+            "yellow": "-"
+        },
+        {
+            "blue": "-"
+        },
+        {
+            "white": "-"
+        }
+    ],
+    "fire_hazard": "----",
+    "health_hazard":"----",
+    "reactivity": "----",
+    "specific": "----",
+    "universe_contains": "---- %",
+    "sun_contains": "---- %",
+    "oceans_contains": "2.2 &middot; 10<sup>-11</sup> %",
+    "human_body_contains": "---- %",
+    "earth_crust_contains": "0.00012 %",
+    "meteorites_contains": "5.9 &middot; 10<sup>-6</sup> %",
+    "start_isotope_number": 140,
+    "stop_isotope_number": 145,
+    "half_life_number": ["6 ms", "4.1 ms", "400 ms", "300 ms", "700 ms", "2.4 s"],
+    "iso_weight": [139.94854, 140.96310, 141.95977, 142.95461, 143.95148, 144.94720]
+}
